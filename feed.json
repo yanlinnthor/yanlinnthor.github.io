@@ -10,32 +10,19 @@
     },
     "items": [
         {
-            "id": "https://hiyanxyz.github.io/testing-testing.html",
-            "url": "https://hiyanxyz.github.io/testing-testing.html",
-            "title": "Testing testing",
-            "summary": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"Let's see if this works or not.\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "content_html": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"Let's see if this works or not.\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "author": {
-                "name": "yan"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-03-30T06:15:51+06:30",
-            "date_modified": "2020-03-30T06:15:51+06:30"
-        },
-        {
             "id": "https://hiyanxyz.github.io/hello.html",
             "url": "https://hiyanxyz.github.io/hello.html",
             "title": "Hello",
             "summary": "hello world",
-            "content_html": "hello world",
+            "content_html": "<p>hello world</p>",
+            "image": "https://hiyanxyz.github.io/media/posts/1/hello-i-m-nik-MAgPyHRO0AA-unsplash.jpg",
             "author": {
                 "name": "yan"
             },
             "tags": [
             ],
             "date_published": "2020-03-29T21:03:38+06:30",
-            "date_modified": "2020-03-29T21:03:38+06:30"
+            "date_modified": "2020-04-04T02:36:51+06:30"
         }
     ]
 }
