@@ -3,12 +3,40 @@
     <title>Yan</title>
     <link href="https://hiyanxyz.github.io/feed.xml" rel="self" />
     <link href="https://hiyanxyz.github.io" />
-    <updated>2020-04-04T18:52:10+06:30</updated>
+    <updated>2020-04-04T22:53:50+06:30</updated>
     <author>
         <name>yan</name>
     </author>
     <id>https://hiyanxyz.github.io</id>
 
+    <entry>
+        <title>Remote Working Seems Fun</title>
+        <author>
+            <name>yan</name>
+        </author>
+        <link href="https://hiyanxyz.github.io/remote-working-seems-fun.html"/>
+        <id>https://hiyanxyz.github.io/remote-working-seems-fun.html</id>
+            <category term="Thoughts"/>
+
+        <updated>2020-04-04T22:48:21+06:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hiyanxyz.github.io/media/posts/4/tim-trad-XldFyIJM3h0-unsplash.jpg" alt="" />
+                    ငယ်ငယ်တုန်းကတော့ ကျောင်းမသွားရပဲ အိမ်မှာနေရရင် တော်တော်ပျော်တာ။ ကြီးလာပြီး အလုပ်လုပ်ရတော့လည်း အလုပ်မလုပ်ပဲ အိမ်မှာနေရရင်ကောင်းမယ် ခဏခဏတွေးမိတယ်။ အခုလို တကယ်တမ်း အိမ်မှာပဲနေရပြီဆိုတဲ့ အခါကျမှ ... မနက်တိုင်းရုံးချိန်အမီရောက်အောင်ကြိုးစားရတာတွေ၊ ၁နာရီအောက်ထစ်ကြာတဲ့ အစည်းအဝေးတွေ၊&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hiyanxyz.github.io/media/posts/4/tim-trad-XldFyIJM3h0-unsplash.jpg" alt="" />
+                <p>ငယ်ငယ်တုန်းကတော့ ကျောင်းမသွားရပဲ အိမ်မှာနေရရင် တော်တော်ပျော်တာ။ ကြီးလာပြီး အလုပ်လုပ်ရတော့လည်း အလုပ်မလုပ်ပဲ အိမ်မှာနေရရင်ကောင်းမယ် ခဏခဏတွေးမိတယ်။ အခုလို တကယ်တမ်း အိမ်မှာပဲနေရပြီဆိုတဲ့ အခါကျမှ ...</p>
+<hr>
+<p>မနက်တိုင်းရုံးချိန်အမီရောက်အောင်ကြိုးစားရတာတွေ၊ ၁နာရီအောက်ထစ်ကြာတဲ့ အစည်းအဝေးတွေ၊ open-space office ဒုက္ခတွေ၊ cubicle office ဒုက္ခတွေ၊ ရုံးဆင်းချိန် ဘတ်စ်ကား ရထားကျပ်တာတွေ၊ အလုပ်လုပ်လို့ကောင်းနေတုန်း ဘေးနားမှာ ဟိုဟာခိုင်း ဒီဟာမေးလုပ်တဲ့လူတွေ၊ ရုံးနားကစားသောက်ဆိုင်တွေက ကိုယ်နဲ့ဓါတ်မတွေ့တာတွေ။</p>
+<p>ဒါတွေ အကုန်လွတ်ကင်းတဲ့ ကိုယ့်အိမ်ကပဲ ကိုယ့်အလုပ်တွေ ကိုယ်လုပ်ချင်ကြတဲ့ ကျွန်တော်တို့တွေ အခုလို တကယ်တမ်း လုပ်ကြရပြီ ဆိုတဲ့ အခါကျမှ ...</p>
+<hr>
+<p>အလွယ်လေးတွေးကြည့်ရင် ကိုယ့်အိမ် ကိုယ့်ယာမှာပဲ နေပြီး လုပ်စရာရှိတာလုပ်ပြီး ဝင်ငွေရှာနိုင်မယ်ဆိုတာ လူတိုင်း လိုချင်တဲ့ ဘဝတစ်ခုပါ။ အခုတော့ ဒီဘဝကြီးက အိပ်မက်မဟုတ်ပဲ တကယ်ဖြစ်လာပါပြီ။ ဘယ်လိုနေလဲ။ အဆင်ပြေကြလား။</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Digital Ocean Account Creation</title>
         <author>
@@ -18,15 +46,15 @@
         <id>https://hiyanxyz.github.io/digital-ocean-account-creation.html</id>
             <category term="Guide"/>
 
-        <updated>2020-04-04T18:51:40+06:30</updated>
+        <updated>2020-04-04T22:16:15+06:30</updated>
             <summary>
                 <![CDATA[
-                    [{"id":1586002746857,"type":"publii-paragraph","content":"Just a simple steps as a guide to assist non-tech people.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002768272,"type":"publii-paragraph","content":"1. Register at","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002639499,"type":"publii-paragraph","content":"- DigitalOcean - The developer cloud","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002640640,"type":"publii-paragraph","content":"2. Enter billing info with your credit card","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002642018,"type":"publii-paragraph","content":"3. Set up team account","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002643173,"type":"publii-paragraph","content":"- How to Create Teams | DigitalOcean Product Documentation","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002644278,"type":"publii-paragraph","content":" - Do not need to check \"Convert your&hellip;
+                    [{"id":1586002746857,"type":"publii-paragraph","content":"Just a simple guide to assist non-tech people.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002768272,"type":"publii-paragraph","content":"1. Register at","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002639499,"type":"publii-paragraph","content":"- DigitalOcean - The developer cloud","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002640640,"type":"publii-paragraph","content":"2.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                [{"id":1586002746857,"type":"publii-paragraph","content":"<em>Just a simple steps as a guide to assist non-tech people.</em>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002768272,"type":"publii-paragraph","content":"1. Register at","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002639499,"type":"publii-paragraph","content":"- <a href=\"https://cloud.digitalocean.com/registrations/new\">DigitalOcean - The developer cloud</a>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002640640,"type":"publii-paragraph","content":"2. Enter billing info with your credit card","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002642018,"type":"publii-paragraph","content":"3. Set up team account","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002643173,"type":"publii-paragraph","content":"- <a href=\"https://www.digitalocean.com/docs/accounts/teams/how-to/create/\">How to Create Teams | DigitalOcean Product Documentation</a>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002644278,"type":"publii-paragraph","content":"    - Do not need to check \"Convert your account\" into a team.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002645924,"type":"publii-paragraph","content":"    - Do not need to check \"Secure sign-in\"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002647547,"type":"publii-paragraph","content":"4. Invite team members","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002648760,"type":"publii-paragraph","content":"    - enter the emails in the textarea","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002650549,"type":"publii-paragraph","content":"    - click Invite","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002651981,"type":"publii-paragraph","content":"    - Invited user has to accept the invitation via email","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002653509,"type":"publii-paragraph","content":"5. Give the team member necessary role","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002655166,"type":"publii-paragraph","content":"<a href=\"https://www.digitalocean.com/docs/accounts/teams/how-to/manage-membership/\">How to Manage Team Membership | DigitalOcean Product Documentation</a>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""},"link":{"url":"https://www.digitalocean.com/docs/accounts/teams/how-to/manage-membership/","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false,"download":false}}},{"id":1586002687182,"type":"publii-paragraph","content":"    - usually \"Member\" role is enough","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+                [{"id":1586002746857,"type":"publii-paragraph","content":"<em>Just a simple guide to assist non-tech people.</em>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002768272,"type":"publii-paragraph","content":"1. Register at","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002639499,"type":"publii-paragraph","content":"- <a href=\"https://cloud.digitalocean.com/registrations/new\">DigitalOcean - The developer cloud</a>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002640640,"type":"publii-paragraph","content":"2. Enter billing info with your credit card","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002642018,"type":"publii-paragraph","content":"3. Set up team account","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002643173,"type":"publii-paragraph","content":"- <a href=\"https://www.digitalocean.com/docs/accounts/teams/how-to/create/\">How to Create Teams | DigitalOcean Product Documentation</a>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002644278,"type":"publii-paragraph","content":"    - Do not need to check \"Convert your account\" into a team.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002645924,"type":"publii-paragraph","content":"    - Do not need to check \"Secure sign-in\"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002647547,"type":"publii-paragraph","content":"4. Invite team members","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002648760,"type":"publii-paragraph","content":"    - enter the emails in the textarea","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002650549,"type":"publii-paragraph","content":"    - click Invite","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002651981,"type":"publii-paragraph","content":"    - Invited user has to accept the invitation via email","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002653509,"type":"publii-paragraph","content":"5. Give the team member necessary role","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002655166,"type":"publii-paragraph","content":"<a href=\"https://www.digitalocean.com/docs/accounts/teams/how-to/manage-membership/\">How to Manage Team Membership | DigitalOcean Product Documentation</a>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""},"link":{"url":"https://www.digitalocean.com/docs/accounts/teams/how-to/manage-membership/","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false,"download":false}}},{"id":1586002687182,"type":"publii-paragraph","content":"    - usually \"Member\" role is enough","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
             ]]>
         </content>
     </entry>
@@ -38,17 +66,18 @@
         <link href="https://hiyanxyz.github.io/hello.html"/>
         <id>https://hiyanxyz.github.io/hello.html</id>
 
-        <updated>2020-04-04T02:36:51+06:30</updated>
+        <updated>2020-04-04T22:15:36+06:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hiyanxyz.github.io/media/posts/1/hello-i-m-nik-MAgPyHRO0AA-unsplash.jpg" alt="" />
-                    hello world
+                    hello world မင်္ဂလာပါ
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://hiyanxyz.github.io/media/posts/1/hello-i-m-nik-MAgPyHRO0AA-unsplash.jpg" alt="" />
                 <p>hello world</p>
+<p>မင်္ဂလာပါ</p>
             ]]>
         </content>
     </entry>
