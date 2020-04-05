@@ -3,12 +3,42 @@
     <title>Yan</title>
     <link href="https://hiyanxyz.github.io/feed.xml" rel="self" />
     <link href="https://hiyanxyz.github.io" />
-    <updated>2020-04-04T22:53:50+06:30</updated>
+    <updated>2020-04-05T13:12:15+06:30</updated>
     <author>
         <name>yan</name>
     </author>
     <id>https://hiyanxyz.github.io</id>
 
+    <entry>
+        <title>The Best Is The Enemy Of The Good</title>
+        <author>
+            <name>yan</name>
+        </author>
+        <link href="https://hiyanxyz.github.io/the-best-is-the-enemy-of-the-good.html"/>
+        <id>https://hiyanxyz.github.io/the-best-is-the-enemy-of-the-good.html</id>
+            <category term="Thoughts"/>
+
+        <updated>2020-04-05T13:12:10+06:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hiyanxyz.github.io/media/posts/5/giorgio-trovato-aqEbZ9eZAwg-unsplash.jpg" alt="" />
+                    Dans ses écrits, un sage Italien Dit que le mieux est l'ennemi du bien. -&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hiyanxyz.github.io/media/posts/5/giorgio-trovato-aqEbZ9eZAwg-unsplash.jpg" alt="" />
+                <blockquote>
+<p>Dans ses écrits, un sage Italien<br>Dit que le mieux est l'ennemi du bien.</p>
+<p>-  Voltaire (La Bégueule)</p>
+</blockquote>
+<p>အပေါ်က စာကို ဘာသာပြန်ရင် <em>In his writings, a wise Italian</em><br><em>says that the best is the enemy of the good </em>လို့ရတယ်။ အီတလီက စကားပုံတစ်ခုနဲ့ ပတ်သက်ပြီး Voltaire က သူ့ကဗျာတစ်ပုဒ်မှာ ထည့်ရေးခဲ့တာပါ။</p>
+<p class="msg msg--highlight">အပြစ်အနာမရှိပြည့်စုံနှစ်သက်ဖွယ်ဆိုတဲ့ အခြေအနေက ကောင်းမွန်တယ်ဆိုတဲ့ အခြေအနေရဲ့ အဓိကရန်သူပါ။</p>
+<p>အလုပ်လုပ်ကြတာနဲ့ ပတ်သက်ပြီး ဒီ အတွေးအခေါ်ကို လက်ခံကျင့်သုံးကြသူများတယ်။ အခုနောက်ပိုင်း ခေတ်မီနည်းပညာတွေပေါ်အခြေခံပြီး ထွက်ပေါ်လာကြတဲ့ လုပ်ငန်းအသစ်တွေ ကုန်ပစ္စည်းအသစ်တွေ ဒီခံယူချက်ကို အခြေခံထားတာ အများကြီး သိသာပါတယ်။</p>
+<p>ကျွန်တော်ကိုယ်တိုင်က ဒီအချက်ကို အပြည့်အဝမကျင့်သုံးနိုင်သေးဘူး။ အထူးသဖြင့် တစ်ပါးသူလုပ်ထားတဲ့ အလုပ်တွေနဲ့ ပတ်သက်ရင် good အဆင့်ကို လက်ခံနိုင်ပေးပေမယ့် ကိုယ်တိုင်လုပ်ရတဲ့ အလုပ်တွေမှာ တစ်ခြားလူတွေအနေနဲ့ perfect မပြောတောင် ကိုယ့်ဟာကိုတော့ best ဆိုတာမျိုးမှ ကျေနပ်တတ်တော့ အလုပ်မတွင်တာ ခဏခဏဖြစ်တယ်။ တကယ်ကတော့ ဒါလည်း ဘုရားဟောတဲ့ အရာပါပဲ။ သင့်တင့်လျောက်ပတ်အောင် နေထိုင်ကျင့်သုံးပါ ဆိုတာနဲ့ အဓိပ္ပါယ်တူတူပါပဲ။ ဘယ်အရာမှ အစွန်းမရောက်ပဲ သင့်တင့်စွာ ပြီးမြောက်မဲ့ အလုပ်တွေလုပ်နိုင်အောင် ကြိုးစားရပါဦးမယ်။</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Remote Working Seems Fun</title>
         <author>
@@ -46,7 +76,7 @@
         <id>https://hiyanxyz.github.io/digital-ocean-account-creation.html</id>
             <category term="Guide"/>
 
-        <updated>2020-04-04T22:16:15+06:30</updated>
+        <updated>2020-04-05T12:49:44+06:30</updated>
             <summary>
                 <![CDATA[
                     [{"id":1586002746857,"type":"publii-paragraph","content":"Just a simple guide to assist non-tech people.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002768272,"type":"publii-paragraph","content":"1. Register at","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002639499,"type":"publii-paragraph","content":"- DigitalOcean - The developer cloud","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1586002640640,"type":"publii-paragraph","content":"2.
