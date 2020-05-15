@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://hiyanxyz.github.io/essay-1.html",
+            "url": "https://hiyanxyz.github.io/essay-1.html",
+            "title": "Essay 1",
+            "summary": "[{\"id\":1589550279513,\"type\":\"publii-quote\",\"content\":{\"text\":\"Be careful when you cast out your demons that you don’t throw away the best&hellip;",
+            "content_html": "[{\"id\":1589550279513,\"type\":\"publii-quote\",\"content\":{\"text\":\"Be careful when you cast out your demons that you don’t throw away the best of yourself.\",\"author\":\"Friedrich Nietzsche\"},\"config\":{\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1589551206071,\"type\":\"publii-paragraph\",\"content\":\"ပြဿနာတစ်ခု (သို့) အများနဲ့ ကြုံတိုင်း ကျွန်တော် လုပ်တတ်တာ ၂ခုရှိတယ်။&nbsp;ဆောင်းတွင်းမှာ ဝက်ဝံတစ်ကောင် အိပ်နေတတ်သလိုမျိုး ဘာဆိုဘာကိုမှ မလုပ်တော့ မကိုင်တော့ပဲ အိပ်တာရယ် နိုးတာရယ် စားစရာရှိတာစားပြီး ပြန်ခွေနေတာ လုပ်တတ်တယ်။&nbsp;ဒါမှမဟုတ် လုပ်စရာရှိတာ ဖြေရှင်းစရာရှိတာတွေထဲက တစ်ခုကိုပဲ ဇောက်ချလုပ်နေလိုက်တယ်။ ဘယ်တစ်ခုပဲလုပ်လုပ် သေချာတာတစ်ခုကတော့ ကြုံတွေ့နေတဲ့ ပြဿနာတွေ အပါအဝင် အရာအားလုံးကို ကျွန်တော် လုံးဝလျစ်လျှူရှု ထားဖြစ်တာပဲ။ အလွန်ဆုံး တစ်ယောက်တစ်လေလောက်နဲ့ ဟိုပြောဒီပြောလုပ်တာလောက်ကလွဲရင် ကျွန်တော် လူတွေအကုန်နဲ့ အဆက်အသွယ်ဖြတ်တယ်။ နောက်ဆုံး ဘယ်လို ဘယ်လိုမှ ကြုံတွေ့နေတာတွေကို ရင်မဆိုင်လို့ မရတော့ဘူးဆိုတဲ့ အခြေအနေ မဟုတ်လည်း တော်တော်ဆိုးဆိုးဝါးဝါး အခြေအနေတွေဖြစ်တော့မှ ထပြီး လုပ်ရမှာတွေ ရင်ဆိုင်ရမှာတွေကို ရင်ဆိုင် လုပ်ကိုင်ဖြစ်တယ်။\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1589552102594,\"type\":\"publii-paragraph\",\"content\":\"ပတ်ဝန်းကျင် လောကကြီး တစ်ခုလုံးကို လျစ်လျှူရှုထားလိုက်ခြင်းနဲ့ ကြုံနေရတဲ့ ပြဿနာတွေကိုပါ ကိုယ့်မှာ မရှိတော့သလိုမျိုး ယာယီသက်သာမှုတစ်ခုကို စုံမက်တာပါ။ ကိုယ့်ကို ဝါးမျိုတော့မယ့် မိစ္ဆာတွေကို အခန်းထောင့်က ဘီဒိုထဲမှာ သော့ခတ်သိမ်းထားသလိုမျိုးပါပဲ။ ခက်တာက ဆယ်စုနှစ်တစ်စုလောက် ကြာလာတဲ့အခါမှာ ဘီဒိုက မဆံ့တော့တာ ကျွန်တော့်ဟာကျွန်တော် သိလာတယ်။\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1589552416489,\"type\":\"publii-paragraph\",\"content\":\"နောက်ထပ် ခပ်ကြီးကြီး ဘီဒိုတစ်လုံးပဲ လုပ်ရမလား ... တစ်ခြားနည်းလမ်းတစ်ခုခုပဲ ပြောင်းရမလား ဆိုတာ ကျွန်တော့်ဟာ ကျွန်တော် မေးနေမိတဲ့ မေးခွန်းတစ်ခုပါ။\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
+            "image": "https://hiyanxyz.github.io/media/posts/8/stijn-swinnen-qwe8TLRnG8k-unsplash.jpg",
+            "author": {
+                "name": "yan"
+            },
+            "tags": [
+                   "Essay"
+            ],
+            "date_published": "2020-05-15T20:51:32+06:30",
+            "date_modified": "2020-05-15T20:51:32+06:30"
+        },
+        {
             "id": "https://hiyanxyz.github.io/mm-regions-cities-package.html",
             "url": "https://hiyanxyz.github.io/mm-regions-cities-package.html",
             "title": "mm-regions-cities package",
