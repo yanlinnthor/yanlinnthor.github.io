@@ -12,7 +12,7 @@
 <loc>https://hiyanxyz.github.io/essay-1.html</loc>
 <lastmod>2020-05-15T20:51:32+06:30</lastmod>
 <image:image>
-<image:loc>https://hiyanxyz.github.io/media/posts/8/stijn-swinnen-qwe8TLRnG8k-unsplash.jpg</image:loc>
+<image:loc>https://hiyanxyz.github.io/media\posts\8/stijn-swinnen-qwe8TLRnG8k-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -20,7 +20,7 @@
 <loc>https://hiyanxyz.github.io/for-a-programmer-keep-a-notebook.html</loc>
 <lastmod>2020-08-02T18:51:54+06:30</lastmod>
 <image:image>
-<image:loc>https://hiyanxyz.github.io/media/posts/10/ali-yahya-9zFa3XvxFx4-unsplash.jpg</image:loc>
+<image:loc>https://hiyanxyz.github.io/media\posts\10/ali-yahya-9zFa3XvxFx4-unsplash.jpg</image:loc>
 <image:title><![CDATA[Tip For A Programmer - Keep A Notebook]]></image:title>
 </image:image>
 </url>
@@ -28,7 +28,7 @@
 <loc>https://hiyanxyz.github.io/hello.html</loc>
 <lastmod>2020-04-04T22:15:36+06:30</lastmod>
 <image:image>
-<image:loc>https://hiyanxyz.github.io/media/posts/1/hello-i-m-nik-MAgPyHRO0AA-unsplash.jpg</image:loc>
+<image:loc>https://hiyanxyz.github.io/media\posts\1/hello-i-m-nik-MAgPyHRO0AA-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -36,7 +36,7 @@
 <loc>https://hiyanxyz.github.io/lavuta.html</loc>
 <lastmod>2020-08-02T13:11:26+06:30</lastmod>
 <image:image>
-<image:loc>https://hiyanxyz.github.io/media/posts/9/1.png</image:loc>
+<image:loc>https://hiyanxyz.github.io/media\posts\9/1.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -44,11 +44,11 @@
 <loc>https://hiyanxyz.github.io/mm-regions-cities-package.html</loc>
 <lastmod>2020-04-17T22:15:01+06:30</lastmod>
 <image:image>
-<image:loc>https://hiyanxyz.github.io/media/posts/7/2533.jpg</image:loc>
+<image:loc>https://hiyanxyz.github.io/media\posts\7/2533.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://hiyanxyz.github.io/media/posts/7/2020-04-Selection_005.png</image:loc>
+<image:loc>https://hiyanxyz.github.io/media\posts\7/2020-04-Selection_005.png</image:loc>
 <image:title><![CDATA[Myanmar Country Structural Hierarchy]]></image:title>
 </image:image>
 </url>
@@ -59,7 +59,7 @@
 <loc>https://hiyanxyz.github.io/remote-working-seems-fun.html</loc>
 <lastmod>2020-04-04T22:48:21+06:30</lastmod>
 <image:image>
-<image:loc>https://hiyanxyz.github.io/media/posts/4/tim-trad-XldFyIJM3h0-unsplash.jpg</image:loc>
+<image:loc>https://hiyanxyz.github.io/media\posts\4/tim-trad-XldFyIJM3h0-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -67,8 +67,16 @@
 <loc>https://hiyanxyz.github.io/the-best-is-the-enemy-of-the-good.html</loc>
 <lastmod>2020-04-05T13:12:10+06:30</lastmod>
 <image:image>
-<image:loc>https://hiyanxyz.github.io/media/posts/5/giorgio-trovato-aqEbZ9eZAwg-unsplash.jpg</image:loc>
+<image:loc>https://hiyanxyz.github.io/media\posts\5/giorgio-trovato-aqEbZ9eZAwg-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://hiyanxyz.github.io/wanted-ai-pa.html</loc>
+<lastmod>2020-09-28T19:13:08+06:30</lastmod>
+<image:image>
+<image:loc>https://hiyanxyz.github.io/media\posts\11/photos-hobby-JjGXjESMxOY-unsplash.jpg</image:loc>
+<image:title><![CDATA[robot]]></image:title>
 </image:image>
 </url>
 </urlset>
