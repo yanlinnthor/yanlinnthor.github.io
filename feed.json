@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://hiyanxyz.github.io/ascendant-part-00.html",
+            "url": "https://hiyanxyz.github.io/ascendant-part-00.html",
+            "title": "Ascendant Part 00",
+            "summary": " လူက ငပျင်းဆိုတော့ ကြီးကြီးမားမား game ‌‌‌တွေဆို ပြီး‌အောင်မဆော့နိုင်ဘူး။ ဒါ‌ပေမယ့် ‌ပေါ့ပေါ့ပါးပါး နဲ့ ‌ပျော်ဖို့ကောင်းတဲ့ ဂိမ်းမျိုးဆော့ရတာကြိုက်လို့ အဲတာမျိုး ဂိမ်းလေးတွေတော့ ဆော့ဖြစ်တယ်။&hellip;",
+            "content_html": "\n  <p>\n    လူက ငပျင်းဆိုတော့ ကြီးကြီးမားမား game ‌‌‌တွေဆို ပြီး‌အောင်မဆော့နိုင်ဘူး။ ဒါ‌ပေမယ့် ‌ပေါ့ပေါ့ပါးပါး နဲ့ ‌ပျော်ဖို့ကောင်းတဲ့ ဂိမ်းမျိုးဆော့ရတာကြိုက်လို့ အဲတာမျိုး ဂိမ်းလေးတွေတော့ ဆော့ဖြစ်တယ်။ ကိုယ်ဆော့တဲ့ ဂိမ်းတွေကို တခြားလူတွေလည်း သိစေချင်လို့ အပျော် game play video လေးတွေ အားရင် အားသလို လုပ်ဖို့ စိတ်ကူးရတာနဲ့ လုပ်ဖြစ်တာပါ။\n  </p>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/QFK5HhXcqHA?controls=0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></div></div>",
+            "image": "https://hiyanxyz.github.io/media/posts/13/wallpaper-01-Ascendant.jpg",
+            "author": {
+                "name": "yan"
+            },
+            "tags": [
+                   "Gaming"
+            ],
+            "date_published": "2020-11-23T01:12:40+06:30",
+            "date_modified": "2020-11-23T01:12:40+06:30"
+        },
+        {
             "id": "https://hiyanxyz.github.io/10-is-becoming-better-but-i-still-prefer-my-mint.html",
             "url": "https://hiyanxyz.github.io/10-is-becoming-better-but-i-still-prefer-my-mint.html",
             "title": "10 is becoming better but I still prefer my Mint",
@@ -152,21 +168,6 @@
             ],
             "date_published": "2020-04-04T18:45:09+06:30",
             "date_modified": "2020-04-05T12:49:44+06:30"
-        },
-        {
-            "id": "https://hiyanxyz.github.io/hello.html",
-            "url": "https://hiyanxyz.github.io/hello.html",
-            "title": "Hello",
-            "summary": "hello world မင်္ဂလာပါ",
-            "content_html": "<p>hello world</p>\n<p>မင်္ဂလာပါ</p>",
-            "image": "https://hiyanxyz.github.io/media/posts/1/hello-i-m-nik-MAgPyHRO0AA-unsplash.jpg",
-            "author": {
-                "name": "yan"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-03-29T21:03:38+06:30",
-            "date_modified": "2020-04-04T22:15:36+06:30"
         }
     ]
 }
