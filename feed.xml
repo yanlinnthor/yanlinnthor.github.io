@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Yan&#x27;s Blog</title>
-    <link href="https://yanlinnthor.github.io/yanlinnthor.github.io/feed.xml" rel="self" />
-    <link href="https://yanlinnthor.github.io/yanlinnthor.github.io" />
+    <link href="https://yanlinnthor.github.io/feed.xml" rel="self" />
+    <link href="https://yanlinnthor.github.io" />
     <updated>2025-08-16T22:32:37+06:30</updated>
     <author>
         <name>yan</name>
     </author>
-    <id>https://yanlinnthor.github.io/yanlinnthor.github.io</id>
+    <id>https://yanlinnthor.github.io</id>
 
     <entry>
         <title>Kate Editor and LSP setup</title>
         <author>
             <name>yan</name>
         </author>
-        <link href="https://yanlinnthor.github.io/yanlinnthor.github.io/kate-editor-and-lsp-servers-setup.html"/>
-        <id>https://yanlinnthor.github.io/yanlinnthor.github.io/kate-editor-and-lsp-servers-setup.html</id>
+        <link href="https://yanlinnthor.github.io/kate-editor-and-lsp-servers-setup.html"/>
+        <id>https://yanlinnthor.github.io/kate-editor-and-lsp-servers-setup.html</id>
 
         <updated>2025-08-14T01:07:21+06:30</updated>
             <summary>
@@ -35,7 +35,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/Screenshot_20250816_205647.png" height="1164" width="2056" alt="Kate Text Editor opening a Laravel project"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_205647-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_205647-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_205647-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_205647-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_205647-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_205647-2xl.png 1920w">
+      <img loading="lazy" src="https://yanlinnthor.github.io/media/posts/19/Screenshot_20250816_205647.png" height="1164" width="2056" alt="Kate Text Editor opening a Laravel project"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_205647-xs.png 640w ,https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_205647-sm.png 768w ,https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_205647-md.png 1024w ,https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_205647-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_205647-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_205647-2xl.png 1920w">
       <figcaption>Kate Text Editor opening a Laravel project</figcaption>
     </figure>
 
@@ -56,7 +56,7 @@
   </ul>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/Screenshot_20250816_211920.png" height="1164" width="2056" alt="Kate text editor plugin settings"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211920-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211920-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211920-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211920-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211920-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211920-2xl.png 1920w">
+      <img loading="lazy" src="https://yanlinnthor.github.io/media/posts/19/Screenshot_20250816_211920.png" height="1164" width="2056" alt="Kate text editor plugin settings"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211920-xs.png 640w ,https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211920-sm.png 768w ,https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211920-md.png 1024w ,https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211920-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211920-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211920-2xl.png 1920w">
       <figcaption>Kate text editor plugin settings</figcaption>
     </figure>
 
@@ -77,7 +77,7 @@
   </ul>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/Screenshot_20250816_211124.png" height="1164" width="2056" alt="Kate text editor lsp client settings"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211124-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211124-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211124-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211124-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211124-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211124-2xl.png 1920w">
+      <img loading="lazy" src="https://yanlinnthor.github.io/media/posts/19/Screenshot_20250816_211124.png" height="1164" width="2056" alt="Kate text editor lsp client settings"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211124-xs.png 640w ,https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211124-sm.png 768w ,https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211124-md.png 1024w ,https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211124-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211124-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/19/responsive/Screenshot_20250816_211124-2xl.png 1920w">
       <figcaption>Kate text editor lsp client settings</figcaption>
     </figure>
 
@@ -96,20 +96,20 @@
         <author>
             <name>yan</name>
         </author>
-        <link href="https://yanlinnthor.github.io/yanlinnthor.github.io/2025-dev-setup-revised.html"/>
-        <id>https://yanlinnthor.github.io/yanlinnthor.github.io/2025-dev-setup-revised.html</id>
-        <media:content url="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/18/Screenshot_20250810_212551.png" medium="image" />
+        <link href="https://yanlinnthor.github.io/2025-dev-setup-revised.html"/>
+        <id>https://yanlinnthor.github.io/2025-dev-setup-revised.html</id>
+        <media:content url="https://yanlinnthor.github.io/media/posts/18/Screenshot_20250810_212551.png" medium="image" />
 
         <updated>2025-08-10T21:26:36+06:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/18/Screenshot_20250810_212551.png" alt="" />
+                        <img src="https://yanlinnthor.github.io/media/posts/18/Screenshot_20250810_212551.png" alt="" />
                     Debian 13 with KDE Plasma 6 Install base distro Download and install distro iso Download&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/18/Screenshot_20250810_212551.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://yanlinnthor.github.io/media/posts/18/Screenshot_20250810_212551.png" class="type:primaryImage" alt="" /></p>
                 <h1 id="debian-13-with-kde-plasma-6">Debian 13 with KDE Plasma 6</h1>
 <h2 id="install-base-distro">Install base distro</h2>
 <h3 id="download-and-install-distro-iso">Download and install distro iso</h3>
@@ -418,8 +418,8 @@ ZSH_THEME=&quot;dracula&quot;
         <author>
             <name>yan</name>
         </author>
-        <link href="https://yanlinnthor.github.io/yanlinnthor.github.io/2025-development-setup.html"/>
-        <id>https://yanlinnthor.github.io/yanlinnthor.github.io/2025-development-setup.html</id>
+        <link href="https://yanlinnthor.github.io/2025-development-setup.html"/>
+        <id>https://yanlinnthor.github.io/2025-development-setup.html</id>
 
         <updated>2025-08-02T21:10:32+06:30</updated>
             <summary>
@@ -548,22 +548,22 @@ ZSH_THEME=&quot;dracula&quot;
         <author>
             <name>yan</name>
         </author>
-        <link href="https://yanlinnthor.github.io/yanlinnthor.github.io/using-laravel-filament.html"/>
-        <id>https://yanlinnthor.github.io/yanlinnthor.github.io/using-laravel-filament.html</id>
-        <media:content url="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/2022-09-28_23-34.png" medium="image" />
+        <link href="https://yanlinnthor.github.io/using-laravel-filament.html"/>
+        <id>https://yanlinnthor.github.io/using-laravel-filament.html</id>
+        <media:content url="https://yanlinnthor.github.io/media/posts/15/2022-09-28_23-34.png" medium="image" />
             <category term="Laravel"/>
             <category term="For A Programmer"/>
 
         <updated>2022-09-29T02:14:54+06:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/2022-09-28_23-34.png" alt="Using Laravel Filament " />
+                        <img src="https://yanlinnthor.github.io/media/posts/15/2022-09-28_23-34.png" alt="Using Laravel Filament " />
                     If you just wish to learn about Filament, please read their documentation and check their&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/2022-09-28_23-34.png" class="type:primaryImage" alt="Using Laravel Filament " /></p>
+                    <p><img src="https://yanlinnthor.github.io/media/posts/15/2022-09-28_23-34.png" class="type:primaryImage" alt="Using Laravel Filament " /></p>
                 <h1 id="mcetoc_1ge8sgjjv1r3"></h1>
 <div class="post__toc">
 <h3>Table of Contents</h3>
@@ -639,7 +639,7 @@ ZSH_THEME=&quot;dracula&quot;
 <li>A hero can be a leader of a team.</li>
 </ul>
 <p>When I have requirements, I decide a DB structure</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15//heros-skills-teams.jpg" alt="heros-skills-teams" width="341" height="221" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15//responsive/heros-skills-teams-xs.jpg 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15//responsive/heros-skills-teams-sm.jpg 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15//responsive/heros-skills-teams-md.jpg 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15//responsive/heros-skills-teams-lg.jpg 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15//responsive/heros-skills-teams-xl.jpg 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15//responsive/heros-skills-teams-2xl.jpg 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/media/posts/15//heros-skills-teams.jpg" alt="heros-skills-teams" width="341" height="221" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/15//responsive/heros-skills-teams-xs.jpg 640w ,https://yanlinnthor.github.io/media/posts/15//responsive/heros-skills-teams-sm.jpg 768w ,https://yanlinnthor.github.io/media/posts/15//responsive/heros-skills-teams-md.jpg 1024w ,https://yanlinnthor.github.io/media/posts/15//responsive/heros-skills-teams-lg.jpg 1366w ,https://yanlinnthor.github.io/media/posts/15//responsive/heros-skills-teams-xl.jpg 1600w ,https://yanlinnthor.github.io/media/posts/15//responsive/heros-skills-teams-2xl.jpg 1920w"></figure>
 <h2 id="mcetoc_1ge8sgjjv1r6">Project Initiate</h2>
 <p><strong>Generate model, factory, migration and seed files</strong></p>
 <p><code>php artisan make:model -fms Hero</code></p>
@@ -691,7 +691,7 @@ ZSH_THEME=&quot;dracula&quot;
 <p><strong>Create user </strong></p>
 <p><code>php artisan make:filament-user</code> and enter details</p>
 <p>Visit yourdomain/admin and login. You should see this.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/2022-09-29_01-59.png" alt="filament-dashboard" width="1112" height="331" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-09-29_01-59-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-09-29_01-59-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-09-29_01-59-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-09-29_01-59-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-09-29_01-59-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-09-29_01-59-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/media/posts/15/2022-09-29_01-59.png" alt="filament-dashboard" width="1112" height="331" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/15/responsive/2022-09-29_01-59-xs.png 640w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-09-29_01-59-sm.png 768w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-09-29_01-59-md.png 1024w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-09-29_01-59-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-09-29_01-59-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-09-29_01-59-2xl.png 1920w"></figure>
 <p><strong>Dummy data</strong></p>
 <p>I use Laravel's Factory and Seeder classes.</p>
 <p>I update the HeroFactory, SkillFactory and TeamFactory.  I update TeamSeeder and SkillSeeder. Since TeamFactory will also generate Heroes, I don't use HeroSeeder.</p>
@@ -703,7 +703,7 @@ ZSH_THEME=&quot;dracula&quot;
 <li>password : password</li>
 </ul>
 <p>You will see dummy data records for heroes, skills and teams.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/Peek-2022-09-29-02-13.gif" alt="filament-with-dummy-data" width="1918" height="972"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/media/posts/15/Peek-2022-09-29-02-13.gif" alt="filament-with-dummy-data" width="1918" height="972"></figure>
 <h2 id="mcetoc_1ge8sgjjv1r8">File upload</h2>
 <p>Let's upload a photo for hero resource. With the help of Spatie Media Library package and Filament Media Library plugin package, we do not need to update hero table structure or anything.</p>
 <p>To add file upload field to hero create/edit form, update <code>form()</code> method <code>$form-&gt;schema</code> parameter array in <code>HeroResource.php</code> with following</p>
@@ -711,8 +711,8 @@ ZSH_THEME=&quot;dracula&quot;
 <p>It is better to define <code>collection()</code> parameter, since it is how we will associate the uploaded file with our resource.</p>
 <p>To show the image in table column, update <code>table()</code> method <code>$table-&gt;columns</code> parameter array in <code>HeroResource.php</code> with following</p>
 <pre>Tables\Columns\SpatieMediaLibraryImageColumn::make('photo')<br>-&gt;collection('hero'),</pre>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/2022-10-01_10-46.png" alt="file-upload" width="1268" height="742" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-46-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-46-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-46-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-46-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-46-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-46-2xl.png 1920w"></figure>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/2022-10-01_10-45.png" alt="image-column" width="1246" height="161" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-45-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-45-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-45-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-45-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-45-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-45-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/media/posts/15/2022-10-01_10-46.png" alt="file-upload" width="1268" height="742" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-46-xs.png 640w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-46-sm.png 768w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-46-md.png 1024w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-46-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-46-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-46-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/media/posts/15/2022-10-01_10-45.png" alt="image-column" width="1246" height="161" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-45-xs.png 640w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-45-sm.png 768w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-45-md.png 1024w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-45-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-45-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-45-2xl.png 1920w"></figure>
 <h2 id="mcetoc_1ge8sgjjv1r9">Relationships</h2>
 <p><strong>One to many relationship</strong></p>
 <p>Hero and skill have one to many relationship. Since a skill can only belong to one hero, we need to select hero when a skill is created. Relationship name is <code>hero</code> and foreign key column is <code>hero_id</code>.</p>
@@ -731,7 +731,7 @@ ZSH_THEME=&quot;dracula&quot;
 <p>After generating and updating the relation manager, we need to update <code>getRelations()</code> method of hero resource as well.</p>
 <pre>    public static function getRelations(): array<br>    {<br>        return [<br>            RelationManagers\SkillsRelationManager::class,<br>        ];<br>    }</pre>
 <p>A skills table and new skill button will appear at hero create/edit form.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/2022-10-01_10-21.png" alt="relation-manager" width="1282" height="818" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-21-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-21-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-21-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-21-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-21-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-21-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/media/posts/15/2022-10-01_10-21.png" alt="relation-manager" width="1282" height="818" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-21-xs.png 640w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-21-sm.png 768w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-21-md.png 1024w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-21-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-21-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-21-2xl.png 1920w"></figure>
 <p><strong>Many to many relationship</strong></p>
 <p>Team and hero have many to many relationship. We can either</p>
 <ul>
@@ -744,7 +744,7 @@ ZSH_THEME=&quot;dracula&quot;
 <div>
 <div>New heroes multi-select field will appear at Team create/edit form</div>
 <div> </div>
-<div><figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/2022-10-01_10-02.png" alt="many-to-many" width="1322" height="636" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-02-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-02-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-02-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-02-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-02-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-02-2xl.png 1920w"></figure></div>
+<div><figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/media/posts/15/2022-10-01_10-02.png" alt="many-to-many" width="1322" height="636" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-02-xs.png 640w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-02-sm.png 768w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-02-md.png 1024w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-02-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-02-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-02-2xl.png 1920w"></figure></div>
 <h2 id="mcetoc_1ge8sgjjv1ra">View Resource</h2>
 <p>By default Filament doesn't generate view page since we will see all data at edit form anyway. If you want separate view page, you have to mention it during resource generation command. Or run generate view page command for existing resource.</p>
 <p>I will create own view page for hero resource.</p>
@@ -759,7 +759,7 @@ ZSH_THEME=&quot;dracula&quot;
 <p>You can use <code>$record</code> variable to get the resource object data in the blade file.</p>
 <pre>&lt;x-filament::page&gt;<br>    &lt;div class="card w-96 shadow-xl p-4"&gt;<br>        &lt;figure&gt;&lt;img src="{{ $record-&gt;getFirstMediaUrl('hero') }}" alt="{{ $record-&gt;name }}" /&gt;<br>        &lt;/figure&gt;<br>        &lt;div class="card-body"&gt;<br>            &lt;h2 class="card-title"&gt;{{ $record-&gt;name }}&lt;/h2&gt;<br>            &lt;p&gt;{{ $record-&gt;history }}&lt;/p&gt;<br>            &lt;div class="justify-end card-actions"&gt;<br>                @foreach ($record-&gt;traits as $trait)<br>                    &lt;div class="badge badge-outline"&gt;{{ $trait }}&lt;/div&gt;<br>                @endforeach<br>            &lt;/div&gt;<br>        &lt;/div&gt;<br>    &lt;/div&gt;<br>&lt;/x-filament::page&gt;</pre>
 <p>And you will get your custom view page for the hero.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/2022-10-01_10-49.png" alt="custom-view" width="1423" height="858" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-49-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-49-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-49-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-49-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-49-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-49-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/media/posts/15/2022-10-01_10-49.png" alt="custom-view" width="1423" height="858" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-49-xs.png 640w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-49-sm.png 768w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-49-md.png 1024w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-49-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-49-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/15/responsive/2022-10-01_10-49-2xl.png 1920w"></figure>
 <h1 id="mcetoc_1gf9c08qph">Step 2 - Roles Permissions</h1>
 <p><em>Branch : <a href="https://github.com/mrlinnth/laravel-filament-starter/tree/steps/02-roles-permissions" title="steps/02-roles-permissions">steps/02-roles-permissions</a></em></p>
 <p>Let's add common features that every project has such as roles, permission, log in, register, impersonate, settings, etc.</p>
@@ -795,7 +795,7 @@ ZSH_THEME=&quot;dracula&quot;
 <p>Listing table filter, sort and search</p>
 <p>Update <code>table()</code> method in <code>Resources/HeroResource.php</code></p>
 <pre>    public static function table(Table $table): Table<br>    {<br>        return $table<br>            -&gt;columns([<br>                Tables\Columns\SpatieMediaLibraryImageColumn::make('photo')<br>                -&gt;collection('hero')<br>                -&gt;conversion('thumb'),<br>                Tables\Columns\TextColumn::make('name')-&gt;sortable()-&gt;searchable(),<br>                Tables\Columns\TextColumn::make('species')-&gt;searchable(),<br>                Tables\Columns\TextColumn::make('gender'),<br>                Tables\Columns\TextColumn::make('age')-&gt;sortable()-&gt;toggleable(),<br>                Tables\Columns\ColorColumn::make('eye_color')-&gt;toggleable(),<br>            ])<br>            -&gt;filters([<br>                Tables\Filters\Filter::make('is_male')<br>                -&gt;label('Males')<br>                -&gt;query(fn (Builder $query): Builder =&gt; $query-&gt;where('gender', 'male')),<br>                Tables\Filters\Filter::make('is_female')<br>                -&gt;label('Females')<br>                -&gt;query(fn (Builder $query): Builder =&gt; $query-&gt;where('gender', 'female')),<br>                Tables\Filters\Filter::make('is_other')<br>                -&gt;label('Others')<br>                -&gt;query(fn (Builder $query): Builder =&gt; $query-&gt;where('gender', 'other')),<br>            ])<br>            -&gt;actions([<br>                Tables\Actions\ViewAction::make(),<br>                Tables\Actions\EditAction::make(),<br>            ])<br>            -&gt;bulkActions([<br>                Tables\Actions\DeleteBulkAction::make(),<br>            ]);<br>    }</pre>
-<h1 id="mcetoc_1gf9c08qpl"><figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/Peek-2022-10-14-01-11.gif" alt="02-roles-permission" width="1918" height="972"></figure></h1>
+<h1 id="mcetoc_1gf9c08qpl"><figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/media/posts/15/Peek-2022-10-14-01-11.gif" alt="02-roles-permission" width="1918" height="972"></figure></h1>
 <h1 id="mcetoc_1gf9c08qpm">Step 3 - JSON API</h1>
 <p><em>Branch : <a href="https://github.com/mrlinnth/laravel-filament-starter/tree/steps/03-json-api" title="steps/03-json-api">steps/03-json-api</a></em></p>
 <p>The project already has <a href="https://laraveljsonapi.io/docs/2.0" title="Laravel JSON API package">Laravel JSON API package</a> installed for developing APIs. Make sure package config file is publish and Exception handler is updated.</p>
@@ -819,22 +819,22 @@ ZSH_THEME=&quot;dracula&quot;
 <p>Create or update <code>HeroPolicy.php</code> class</p>
 <pre>    /**<br>     * Determine whether the user can view the model.<br>     * Notice we've made the $user argument nullable.<br>     * This means the method will be called if there is no authenticated user.<br>     *<br>     * @param  \App\Models\User  $user<br>     * @param  \App\Models\Hero  $hero<br>     * @return \Illuminate\Auth\Access\Response|bool<br>     */<br>    public function view(?User $user, Hero $hero)<br>    {<br>        if (empty($user)) {<br>            return true;<br>        }<br><br>        return $user-&gt;can('view_hero');<br>    }<br><br>    /**<br>     * Determine whether the user can view the hero skills<br>     *<br>     * @param  \App\Models\User  $user<br>     * @param  \App\Models\Hero  $hero<br>     * @return \Illuminate\Auth\Access\Response|bool<br>     */<br>    public function viewSkills(?User $user, Hero $hero)<br>    {<br>        return $this-&gt;view($user, $hero);<br>    }<br><br>    /**<br>     * Determine whether the user can view the teams which the hero is leading<br>     *<br>     * @param  \App\Models\User  $user<br>     * @param  \App\Models\Hero  $hero<br>     * @return \Illuminate\Auth\Access\Response|bool<br>     */<br>    public function viewLeaderTeams(?User $user, Hero $hero)<br>    {<br>        return $this-&gt;view($user, $hero);<br>    }<br><br>    /**<br>     * Determine whether the user can view the teams which the hero is member<br>     *<br>     * @param  \App\Models\User  $user<br>     * @param  \App\Models\Hero  $hero<br>     * @return \Illuminate\Auth\Access\Response|bool<br>     */<br>    public function viewTeams(?User $user, Hero $hero)<br>    {<br>        return $this-&gt;view($user, $hero);<br>    }</pre>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-29.png" data-size="829x1527"><img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-29-thumbnail.png" alt="hero-11" width="720" height="1326"></a>
+<figure class="gallery__item"><a href="https://yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-29.png" data-size="829x1527"><img loading="lazy" src="https://yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-29-thumbnail.png" alt="hero-11" width="720" height="1326"></a>
 <figcaption>hero-11</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-30.png" data-size="831x1567"><img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-30-thumbnail.png" alt="hero-11-with-relationship-data" width="720" height="1358"></a>
+<figure class="gallery__item"><a href="https://yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-30.png" data-size="831x1567"><img loading="lazy" src="https://yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-30-thumbnail.png" alt="hero-11-with-relationship-data" width="720" height="1358"></a>
 <figcaption>hero-11-with-relationship-data</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-31.png" data-size="832x506"><img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-31-thumbnail.png" alt="hero-11-teams" width="720" height="438"></a>
+<figure class="gallery__item"><a href="https://yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-31.png" data-size="832x506"><img loading="lazy" src="https://yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-31-thumbnail.png" alt="hero-11-teams" width="720" height="438"></a>
 <figcaption>hero-11-teams</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-30_1.png" data-size="830x1001"><img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-30_1-thumbnail.png" alt="hero-11-leaderTeams" width="720" height="868"></a>
+<figure class="gallery__item"><a href="https://yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-30_1.png" data-size="830x1001"><img loading="lazy" src="https://yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-30_1-thumbnail.png" alt="hero-11-leaderTeams" width="720" height="868"></a>
 <figcaption>hero-11-leaderTeams</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-33.png" data-size="1277x820"><img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-33-thumbnail.png" alt="hero-11-data" width="720" height="462"></a>
+<figure class="gallery__item"><a href="https://yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-33.png" data-size="1277x820"><img loading="lazy" src="https://yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-33-thumbnail.png" alt="hero-11-data" width="720" height="462"></a>
 <figcaption>hero-11-data</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-33_1.png" data-size="1273x333"><img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-33_1-thumbnail.png" alt="team-data" width="720" height="188"></a>
+<figure class="gallery__item"><a href="https://yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-33_1.png" data-size="1273x333"><img loading="lazy" src="https://yanlinnthor.github.io/media/posts/15/gallery/2022-10-14_01-33_1-thumbnail.png" alt="team-data" width="720" height="188"></a>
 <figcaption>team-data</figcaption>
 </figure>
 </div></div>
@@ -848,22 +848,22 @@ ZSH_THEME=&quot;dracula&quot;
         <author>
             <name>yan</name>
         </author>
-        <link href="https://yanlinnthor.github.io/yanlinnthor.github.io/purkchittttesngpettai-khengcheaangkhngpnnyaa.html"/>
-        <id>https://yanlinnthor.github.io/yanlinnthor.github.io/purkchittttesngpettai-khengcheaangkhngpnnyaa.html</id>
-        <media:content url="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/14/salmen-bejaoui-pTWNamiyDkQ-unsplash.jpg" medium="image" />
+        <link href="https://yanlinnthor.github.io/purkchittttesngpettai-khengcheaangkhngpnnyaa.html"/>
+        <id>https://yanlinnthor.github.io/purkchittttesngpettai-khengcheaangkhngpnnyaa.html</id>
+        <media:content url="https://yanlinnthor.github.io/media/posts/14/salmen-bejaoui-pTWNamiyDkQ-unsplash.jpg" medium="image" />
             <category term="Translation"/>
             <category term="Management"/>
 
         <updated>2021-02-05T20:29:34+06:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/14/salmen-bejaoui-pTWNamiyDkQ-unsplash.jpg" alt="ants" />
+                        <img src="https://yanlinnthor.github.io/media/posts/14/salmen-bejaoui-pTWNamiyDkQ-unsplash.jpg" alt="ants" />
                     အနှစ်ချုပ် အဖွဲ့အစည်းတွေမှာ ခေါင်းဆောင်တွေထက် အဖွဲ့သားတွေကို ပိုဦီးစားပေးပါ။ အဖွဲ့အစည်းတွေကို လူမှန်နေရာမှန် ဖွဲ့ပါ။ အဖွဲ့အစည်းထဲကလူ အားလုံးသဘောတူလက်ခံမယ့် ပန်းတိုင်ထားပါ။ အဖွဲ့အစည်းထဲက အဖွဲ့သားအချင်းချင်း ပြန်လည်သုံးသပ်ခိုင်းပါ။ အဖွဲ့အစည်းအတွင်းက&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/14/salmen-bejaoui-pTWNamiyDkQ-unsplash.jpg" class="type:primaryImage" alt="ants" /></p>
+                    <p><img src="https://yanlinnthor.github.io/media/posts/14/salmen-bejaoui-pTWNamiyDkQ-unsplash.jpg" class="type:primaryImage" alt="ants" /></p>
                 
     <h2>
       အနှစ်ချုပ်
@@ -965,21 +965,21 @@ ZSH_THEME=&quot;dracula&quot;
         <author>
             <name>yan</name>
         </author>
-        <link href="https://yanlinnthor.github.io/yanlinnthor.github.io/10-is-becoming-better-but-i-still-prefer-my-mint.html"/>
-        <id>https://yanlinnthor.github.io/yanlinnthor.github.io/10-is-becoming-better-but-i-still-prefer-my-mint.html</id>
-        <media:content url="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/Screenshot-from-2020-10-16-12-38-40.png" medium="image" />
+        <link href="https://yanlinnthor.github.io/10-is-becoming-better-but-i-still-prefer-my-mint.html"/>
+        <id>https://yanlinnthor.github.io/10-is-becoming-better-but-i-still-prefer-my-mint.html</id>
+        <media:content url="https://yanlinnthor.github.io/media/posts/12/Screenshot-from-2020-10-16-12-38-40.png" medium="image" />
             <category term="Tech Stuff"/>
 
         <updated>2020-10-16T13:58:38+06:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/Screenshot-from-2020-10-16-12-38-40.png" alt="Linux Mint Desktop" />
+                        <img src="https://yanlinnthor.github.io/media/posts/12/Screenshot-from-2020-10-16-12-38-40.png" alt="Linux Mint Desktop" />
                     Windows 10 is definitely becoming better in recent years. Can't deny that. I still found&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/Screenshot-from-2020-10-16-12-38-40.png" class="type:primaryImage" alt="Linux Mint Desktop" /></p>
+                    <p><img src="https://yanlinnthor.github.io/media/posts/12/Screenshot-from-2020-10-16-12-38-40.png" class="type:primaryImage" alt="Linux Mint Desktop" /></p>
                 
   <p>
     Windows 10 is definitely becoming better in recent years. Can't deny that. I still found Linux Mint better for development and more beautiful. On a decent hardware, the performance of the two has little difference. Decent means using SSD and RAM 16GB haha. On a not so decent hardware, I am sure Mint will perform way better and smoother.&nbsp;
@@ -1006,7 +1006,7 @@ ZSH_THEME=&quot;dracula&quot;
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/Screenshot-from-2020-10-16-11-24-29.png" height="540" width="768" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-29-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-29-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-29-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-29-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-29-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-29-2xl.png 1920w">
+      <img loading="lazy" src="https://yanlinnthor.github.io/media/posts/12/Screenshot-from-2020-10-16-11-24-29.png" height="540" width="768" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-29-xs.png 640w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-29-sm.png 768w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-29-md.png 1024w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-29-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-29-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-29-2xl.png 1920w">
       
     </figure>
 
@@ -1015,7 +1015,7 @@ ZSH_THEME=&quot;dracula&quot;
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/Screenshot-from-2020-10-16-11-23-24.png" height="540" width="768" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-23-24-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-23-24-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-23-24-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-23-24-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-23-24-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-23-24-2xl.png 1920w">
+      <img loading="lazy" src="https://yanlinnthor.github.io/media/posts/12/Screenshot-from-2020-10-16-11-23-24.png" height="540" width="768" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-23-24-xs.png 640w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-23-24-sm.png 768w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-23-24-md.png 1024w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-23-24-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-23-24-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-23-24-2xl.png 1920w">
       
     </figure>
 
@@ -1024,7 +1024,7 @@ ZSH_THEME=&quot;dracula&quot;
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/Screenshot-from-2020-10-16-12-38-40-2-2.png" height="101" width="1920" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-12-38-40-2-2-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-12-38-40-2-2-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-12-38-40-2-2-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-12-38-40-2-2-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-12-38-40-2-2-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-12-38-40-2-2-2xl.png 1920w">
+      <img loading="lazy" src="https://yanlinnthor.github.io/media/posts/12/Screenshot-from-2020-10-16-12-38-40-2-2.png" height="101" width="1920" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-12-38-40-2-2-xs.png 640w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-12-38-40-2-2-sm.png 768w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-12-38-40-2-2-md.png 1024w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-12-38-40-2-2-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-12-38-40-2-2-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-12-38-40-2-2-2xl.png 1920w">
       
     </figure>
 
@@ -1033,7 +1033,7 @@ ZSH_THEME=&quot;dracula&quot;
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/Screenshot-from-2020-10-16-11-24-53.png" height="1080" width="1920" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-53-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-53-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-53-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-53-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-53-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-53-2xl.png 1920w">
+      <img loading="lazy" src="https://yanlinnthor.github.io/media/posts/12/Screenshot-from-2020-10-16-11-24-53.png" height="1080" width="1920" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-53-xs.png 640w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-53-sm.png 768w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-53-md.png 1024w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-53-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-53-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-24-53-2xl.png 1920w">
       
     </figure>
 
@@ -1042,7 +1042,7 @@ ZSH_THEME=&quot;dracula&quot;
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/Screenshot-from-2020-10-16-11-22-51.png" height="1080" width="1920" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-22-51-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-22-51-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-22-51-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-22-51-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-22-51-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-22-51-2xl.png 1920w">
+      <img loading="lazy" src="https://yanlinnthor.github.io/media/posts/12/Screenshot-from-2020-10-16-11-22-51.png" height="1080" width="1920" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-22-51-xs.png 640w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-22-51-sm.png 768w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-22-51-md.png 1024w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-22-51-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-22-51-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/12/responsive/Screenshot-from-2020-10-16-11-22-51-2xl.png 1920w">
       
     </figure>
 
@@ -1061,21 +1061,21 @@ ZSH_THEME=&quot;dracula&quot;
         <author>
             <name>yan</name>
         </author>
-        <link href="https://yanlinnthor.github.io/yanlinnthor.github.io/wanted-ai-pa.html"/>
-        <id>https://yanlinnthor.github.io/yanlinnthor.github.io/wanted-ai-pa.html</id>
-        <media:content url="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/11/photos-hobby-JjGXjESMxOY-unsplash.jpg" medium="image" />
+        <link href="https://yanlinnthor.github.io/wanted-ai-pa.html"/>
+        <id>https://yanlinnthor.github.io/wanted-ai-pa.html</id>
+        <media:content url="https://yanlinnthor.github.io/media/posts/11/photos-hobby-JjGXjESMxOY-unsplash.jpg" medium="image" />
             <category term="Thoughts"/>
 
         <updated>2020-09-28T19:13:08+06:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/11/photos-hobby-JjGXjESMxOY-unsplash.jpg" alt="robot" />
+                        <img src="https://yanlinnthor.github.io/media/posts/11/photos-hobby-JjGXjESMxOY-unsplash.jpg" alt="robot" />
                     Imagine မနက်တိုင်း ကိုယ်မပေးထားပဲ သူ့ဟာသူ အချိန်မီ မြည်လာမယ့် နှိုးစက်သံနဲ့ ထ။ ကိုယ် သွားတိုက် မျက်နှာသစ် ‌အိမ်သာတက် ‌ရေချိုး မနက်စာပြင် ဘာညာလုပ်နေတုန်း&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/11/photos-hobby-JjGXjESMxOY-unsplash.jpg" class="type:primaryImage" alt="robot" /></p>
+                    <p><img src="https://yanlinnthor.github.io/media/posts/11/photos-hobby-JjGXjESMxOY-unsplash.jpg" class="type:primaryImage" alt="robot" /></p>
                 
     <h2 id="imagine">
       Imagine
@@ -1120,22 +1120,22 @@ ZSH_THEME=&quot;dracula&quot;
         <author>
             <name>yan</name>
         </author>
-        <link href="https://yanlinnthor.github.io/yanlinnthor.github.io/for-a-programmer-keep-a-notebook.html"/>
-        <id>https://yanlinnthor.github.io/yanlinnthor.github.io/for-a-programmer-keep-a-notebook.html</id>
-        <media:content url="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/ali-yahya-9zFa3XvxFx4-unsplash.jpg" medium="image" />
+        <link href="https://yanlinnthor.github.io/for-a-programmer-keep-a-notebook.html"/>
+        <id>https://yanlinnthor.github.io/for-a-programmer-keep-a-notebook.html</id>
+        <media:content url="https://yanlinnthor.github.io/media/posts/10/ali-yahya-9zFa3XvxFx4-unsplash.jpg" medium="image" />
             <category term="Programming Related"/>
             <category term="For A Programmer"/>
 
         <updated>2020-08-02T13:10:56+06:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/ali-yahya-9zFa3XvxFx4-unsplash.jpg" alt="Tip For A Programmer - Keep A Notebook" />
+                        <img src="https://yanlinnthor.github.io/media/posts/10/ali-yahya-9zFa3XvxFx4-unsplash.jpg" alt="Tip For A Programmer - Keep A Notebook" />
                     နယ်ပယ်တစ်ခုမှာ ဆယ်စုနှစ်တစ်ခုကြာ ကျင်လည်လာပြီးနောက်တော့ ထိုနယ်ပယ်နဲ့ ပတ်သက်လို့ ပြောပြစရာတွေလည်း အတိုင်းအတာတစ်ခုအထိတော့ ရှိလာတာပါပဲ။ ထို့ကြောင့်မို့ ပရိုဂရမ်မာကောင်းတစ်ယောက်လို့ မိမိကိုယ်ကို မခံယူနိုင်သေးသော်ငြား ပရိုဂရမ်မာတွေကိုတော့ ပြောပြမျှဝေပေးချင်တာလေးတွေ အတိုင်းအတာတစ်ခုထိ&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/ali-yahya-9zFa3XvxFx4-unsplash.jpg" class="type:primaryImage" alt="Tip For A Programmer - Keep A Notebook" /></p>
+                    <p><img src="https://yanlinnthor.github.io/media/posts/10/ali-yahya-9zFa3XvxFx4-unsplash.jpg" class="type:primaryImage" alt="Tip For A Programmer - Keep A Notebook" /></p>
                 
     <blockquote class="blockquote">
       နယ်ပယ်တစ်ခုမှာ ဆယ်စုနှစ်တစ်ခုကြာ ကျင်လည်လာပြီးနောက်တော့ ထိုနယ်ပယ်နဲ့ ပတ်သက်လို့ ပြောပြစရာတွေလည်း အတိုင်းအတာတစ်ခုအထိတော့ ရှိလာတာပါပဲ။ ထို့ကြောင့်မို့ ပရိုဂရမ်မာကောင်းတစ်ယောက်လို့ မိမိကိုယ်ကို မခံယူနိုင်သေးသော်ငြား ပရိုဂရမ်မာတွေကိုတော့ ပြောပြမျှဝေပေးချင်တာလေးတွေ အတိုင်းအတာတစ်ခုထိ ရှိနေပါတယ်။ မျှဝေတာတွေကို လက်ခံတာ လက်မခံတာကတော့ စာဖတ်သူ ပရိုဂရမ််မာရဲ့ တာဝန်ပေါ့။ ဒါကြောင့် For A Programmer ဆိုပြီး Series နဲ့ ရေးဖို့ စိတ်ကူးရှိပေမယ့် ဘယ်နှစ်ပုဒ်ရေးဖြစ်မယ်တော့ မသိသေးဘူး။ (ဘလောဂ့်မှာ တစ်လတစ်ပုဒ် အနည်းဆုံး ရေးဖို့ ကြံထားတာတောင် ဇူလိုင်လအတွက် မရေးဖြစ်အောင် စာရေးကပျင်းတယ်။) ဘာပြောပြော ခု တစ်ပုဒ်ကတော့ ပထမခြေလှမ်းပေါ့။
@@ -1252,7 +1252,7 @@ ZSH_THEME=&quot;dracula&quot;
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/Screenshot-from-2020-08-02-17-50-23.png" height="1045" width="1920" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-50-23-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-50-23-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-50-23-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-50-23-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-50-23-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-50-23-2xl.png 1920w">
+      <img loading="lazy" src="https://yanlinnthor.github.io/media/posts/10/Screenshot-from-2020-08-02-17-50-23.png" height="1045" width="1920" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-50-23-xs.png 640w ,https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-50-23-sm.png 768w ,https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-50-23-md.png 1024w ,https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-50-23-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-50-23-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-50-23-2xl.png 1920w">
       
     </figure>
 
@@ -1261,7 +1261,7 @@ ZSH_THEME=&quot;dracula&quot;
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/Screenshot-from-2020-08-02-17-40-45.png" height="1045" width="1920" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-40-45-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-40-45-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-40-45-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-40-45-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-40-45-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-40-45-2xl.png 1920w">
+      <img loading="lazy" src="https://yanlinnthor.github.io/media/posts/10/Screenshot-from-2020-08-02-17-40-45.png" height="1045" width="1920" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-40-45-xs.png 640w ,https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-40-45-sm.png 768w ,https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-40-45-md.png 1024w ,https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-40-45-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-40-45-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-40-45-2xl.png 1920w">
       
     </figure>
 
@@ -1278,7 +1278,7 @@ ZSH_THEME=&quot;dracula&quot;
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/Screenshot-from-2020-08-02-17-41-05.png" height="1045" width="1920" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-41-05-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-41-05-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-41-05-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-41-05-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-41-05-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-41-05-2xl.png 1920w">
+      <img loading="lazy" src="https://yanlinnthor.github.io/media/posts/10/Screenshot-from-2020-08-02-17-41-05.png" height="1045" width="1920" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-41-05-xs.png 640w ,https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-41-05-sm.png 768w ,https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-41-05-md.png 1024w ,https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-41-05-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-41-05-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/10/responsive/Screenshot-from-2020-08-02-17-41-05-2xl.png 1920w">
       
     </figure>
 
@@ -1310,21 +1310,21 @@ ZSH_THEME=&quot;dracula&quot;
         <author>
             <name>yan</name>
         </author>
-        <link href="https://yanlinnthor.github.io/yanlinnthor.github.io/essay-1.html"/>
-        <id>https://yanlinnthor.github.io/yanlinnthor.github.io/essay-1.html</id>
-        <media:content url="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/8/stijn-swinnen-qwe8TLRnG8k-unsplash.jpg" medium="image" />
+        <link href="https://yanlinnthor.github.io/essay-1.html"/>
+        <id>https://yanlinnthor.github.io/essay-1.html</id>
+        <media:content url="https://yanlinnthor.github.io/media/posts/8/stijn-swinnen-qwe8TLRnG8k-unsplash.jpg" medium="image" />
             <category term="Essay"/>
 
         <updated>2020-05-15T20:51:32+06:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/8/stijn-swinnen-qwe8TLRnG8k-unsplash.jpg" alt="" />
+                        <img src="https://yanlinnthor.github.io/media/posts/8/stijn-swinnen-qwe8TLRnG8k-unsplash.jpg" alt="" />
                     Be careful when you cast out your demons that you don’t throw away the best&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/8/stijn-swinnen-qwe8TLRnG8k-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://yanlinnthor.github.io/media/posts/8/stijn-swinnen-qwe8TLRnG8k-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="blockquote">
       <blockquote>Be careful when you cast out your demons that you don’t throw away the best of yourself.</blockquote>
@@ -1350,21 +1350,21 @@ ZSH_THEME=&quot;dracula&quot;
         <author>
             <name>yan</name>
         </author>
-        <link href="https://yanlinnthor.github.io/yanlinnthor.github.io/mm-regions-cities-package.html"/>
-        <id>https://yanlinnthor.github.io/yanlinnthor.github.io/mm-regions-cities-package.html</id>
-        <media:content url="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/7/2533.jpg" medium="image" />
+        <link href="https://yanlinnthor.github.io/mm-regions-cities-package.html"/>
+        <id>https://yanlinnthor.github.io/mm-regions-cities-package.html</id>
+        <media:content url="https://yanlinnthor.github.io/media/posts/7/2533.jpg" medium="image" />
             <category term="Programming Related"/>
 
         <updated>2020-04-17T22:15:01+06:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/7/2533.jpg" alt="" />
+                        <img src="https://yanlinnthor.github.io/media/posts/7/2533.jpg" alt="" />
                     ဒီတစ်ပတ်က mrlinnth/mm-regions-cities package တစ်ခုပဲ ကောင်းကောင်းလုပ်ဖြစ်တယ်ပြောရမယ်။ တစ်ခြားအလုပ်တွေက ဟိုထိ ဒီထိလောက်ပဲ။ ဘာကြောင့်လုပ်ဖြစ်လည်းလေး ရေးပြချင်လို့ပါ။ အဲဒီ package လုပ်ဖြစ်တော့မှ ကိုယ့်နိုင်ငံရဲ့ ပြည်နယ်နဲ့တိုင်းတွေဖွဲ့စည်းထားတာကိုလည်း&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/7/2533.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://yanlinnthor.github.io/media/posts/7/2533.jpg" class="type:primaryImage" alt="" /></p>
                 <p>ဒီတစ်ပတ်က <a href="https://github.com/mrlinnth/mm-regions-cities">mrlinnth/mm-regions-cities</a> package တစ်ခုပဲ ကောင်းကောင်းလုပ်ဖြစ်တယ်ပြောရမယ်။ တစ်ခြားအလုပ်တွေက ဟိုထိ ဒီထိလောက်ပဲ။ ဘာကြောင့်လုပ်ဖြစ်လည်းလေး ရေးပြချင်လို့ပါ။ အဲဒီ package လုပ်ဖြစ်တော့မှ ကိုယ့်နိုင်ငံရဲ့ ပြည်နယ်နဲ့တိုင်းတွေဖွဲ့စည်းထားတာကိုလည်း ပိုသိသွားတယ်။</p>
 <ol>
 <li>ပြည်ထောင်စုနယ်မြေ၊ တိုင်း၊ ပြည်နယ် (ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရတဲ့ တိုင်းနဲ့ ဒေသ) တစ်ခုမှာ ခရိုင်တွေရှိတယ်။</li>
@@ -1372,7 +1372,7 @@ ZSH_THEME=&quot;dracula&quot;
 <li>မြို့နယ်တစ်ခုမှာ ရပ်ကွက် (သို့) ကျေးရွာအုပ်စုတွေ ရှိတယ်။</li>
 <li>ရပ်ကွက်ကို ထပ်ခွဲထားတာမရှိပေမယ့် ကျေးရွာအုပ်စုတစ်ခုမှာ ကျေးရွာတွေ ရှိတယ်။</li>
 </ol>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/7/2020-04-Selection_005.png" alt="Myanmar Country Structural Hierarchy" width="979" height="265" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/7/responsive/2020-04-Selection_005-xs.png 640w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/7/responsive/2020-04-Selection_005-sm.png 768w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/7/responsive/2020-04-Selection_005-md.png 1024w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/7/responsive/2020-04-Selection_005-lg.png 1366w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/7/responsive/2020-04-Selection_005-xl.png 1600w ,https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/7/responsive/2020-04-Selection_005-2xl.png 1920w"></figure><em>Ref : <a href="https://en.wikipedia.org/wiki/Administrative_divisions_of_Myanmar">https://en.wikipedia.org/wiki/Administrative_divisions_of_Myanmar</a></em></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://yanlinnthor.github.io/media/posts/7/2020-04-Selection_005.png" alt="Myanmar Country Structural Hierarchy" width="979" height="265" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yanlinnthor.github.io/media/posts/7/responsive/2020-04-Selection_005-xs.png 640w ,https://yanlinnthor.github.io/media/posts/7/responsive/2020-04-Selection_005-sm.png 768w ,https://yanlinnthor.github.io/media/posts/7/responsive/2020-04-Selection_005-md.png 1024w ,https://yanlinnthor.github.io/media/posts/7/responsive/2020-04-Selection_005-lg.png 1366w ,https://yanlinnthor.github.io/media/posts/7/responsive/2020-04-Selection_005-xl.png 1600w ,https://yanlinnthor.github.io/media/posts/7/responsive/2020-04-Selection_005-2xl.png 1920w"></figure><em>Ref : <a href="https://en.wikipedia.org/wiki/Administrative_divisions_of_Myanmar">https://en.wikipedia.org/wiki/Administrative_divisions_of_Myanmar</a></em></p>
 <p>ကျွန်တော် သိထားတာက မြို့ (city/town) က တစ်နေရာရာကနေ ပါမယ်ထင်တာ။ သို့သော်မပါဘူး။ မြို့နယ်ပဲရှိတယ်။ မြို့လို့ပြောလို့မရတဲ့ ကျေးရွာတွေရှိနေတာမို့လို့ မြို့နယ်အဆင့်နဲ့ပဲ ချုပ်ပြီးပြောလိုက်တာ ပိုမှန်တာပေါ့။ </p>
 <p>ဒါပေမယ့် ဒီနေရာမှာ ပြဿနာလေးတစ်ခုက ကျွန်တော်တို့ website developer တွေ application programmer တွေအတွက်ပေါ်လာတယ်။ ကျွန်တော်တို့ မြင်ဖူးသုံးဖူးနေတဲ့ သိနေတဲ့ form တွေမှာ လိပ်စာအပိုင်းပါလာရင် ဖြည့်ခိုင်းတာက မြို့ (city) ပဲ။ အဆင့်ပိုမယ်ဆိုရင် တိုင်း/ပြည်နယ် (state) ပဲ။ ဒီဟာတွေဖြည့်တာမှာ ကိုယ့်ဟာနဲ့ကို keyboard က ရေးပြီး ဖြည့်ကြရင်တော့ ပြဿနာမကြီးပေမယ့် ရေးရတဲ့လူတွေလွယ်အောင် ကျွန်တော်တို့က dropdown box တွေနဲ့ လုပ်ပေးကြတာများတယ်။ (ရေးရတဲ့လူတွေကို လွယ်ကူအောင် လုပ်ပေးချင်တဲ့ ရည်ရွယ်ချက်ထက် ရေးချင်ရာတွေ လျှောက်မရေးကြအောင်လို့ dropdown list လုပ်ပေးထားတယ်ဆိုရင်လည်း ပိုမှန်တယ်၊ သို့သော် ဒီကိစ္စကို နောက်မှ ပိုစ့်သီးသန့်ထပ်ပြောပါဦးမယ်)</p>
 <p>ကြုံဖူးကြမှာပါ User Registration Form တို့ Online Shopping Payment Form တို့မှာ ကိုယ်နေထိုင်တဲ့ လိပ်စာအတွက်ဖြည့်မယ်ဆိုရင် Country, State, City, Address ဆိုတာမျိုး field တွေဖြည့်ရတာ။ Country, State နဲ့ City တွေကို dropdown list နဲ့ လုပ်ပေးထားကြတာများတယ်။ ဟိုးအရင်ကတော့ country ရွေးပြီး state ရွေးလည်း တကမ္ဘာလုံးက state တွေပြတယ်။ state ရွေးပြီး city ရွေးရင်လည်း တကမ္ဘာလုံးက city တွေပြတယ်။ ကိုယ့်ဟာကိုဖြည့်တဲ့လူက မှန်အောင်ရွေးဖြည့်ကြတယ်။ ခုနောက်ပိုင်းမှာတော့ ဖြည့်တဲ့လူတွေအတွက် လွယ်အောင် အရင်ဆုံး ကိုယ်နေတဲ့ country ကိုရွေးလိုက်ရင် state ရှိတဲ့ နိုင်ငံဆို တစ်ခါတည်း state dropdown မှာပြတဲ့ list က ဒီ country မှာရှိတဲ့ states တွေပဲ ပြတော့တယ်။ State မရှိတဲ့ Country ဖြစ်ဲ့ရင်လည်း state dropdown က နှိပ်စရာမလိုတာမျိုး ဖြစ်သွားတယ်။ ထိုနည်းတူပဲ state တစ်ခုရွေးလိုက်ပြီးရင်လည်း နောက်ကရွေးရမယ့် city dropdown မှာက ဒီ state ထဲမှာရှိတဲ့ city တွေပဲ ပြပေးတယ်။ သုံးရတဲ့လူတွေအဖို့ အများကြီးတွေထဲကရွေးရတဲ့ ဒုက္ခတို့ စာအများကြီး ရိုက်ရတဲ့ အခက်အခဲတို့ မရှိတော့ဘူးပေါ့။</p>
