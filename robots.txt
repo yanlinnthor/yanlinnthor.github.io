@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yanlinnthor.github.io/yanlinnthor.github.io/sitemap.xml

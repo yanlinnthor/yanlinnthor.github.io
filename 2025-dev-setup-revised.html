@@ -1,0 +1,249 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>2025 Dev Setup - Revised - Yan&#x27;s Blog</title><meta name="description" content="Debian 13 with KDE Plasma 6 Install base distro Download and install distro iso Download&hellip;"><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="stylesheet" href="https://yanlinnthor.github.io/yanlinnthor.github.io/media/plugins/syntaxHighlighter/prism-black.css"><link rel="canonical" href="https://yanlinnthor.github.io/yanlinnthor.github.io/2025-dev-setup-revised.html"><link rel="alternate" type="application/atom+xml" href="https://yanlinnthor.github.io/yanlinnthor.github.io/feed.xml" title="Yan&#x27;s Blog - RSS"><link rel="alternate" type="application/json" href="https://yanlinnthor.github.io/yanlinnthor.github.io/feed.json" title="Yan&#x27;s Blog - JSON"><meta property="og:title" content="2025 Dev Setup - Revised"><meta property="og:image" content="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/18/Screenshot_20250810_212551.png"><meta property="og:image:width" content="1920"><meta property="og:image:height" content="1081"><meta property="og:site_name" content="Yan's Blog"><meta property="og:description" content="Debian 13 with KDE Plasma 6 Install base distro Download and install distro iso Download&hellip;"><meta property="og:url" content="https://yanlinnthor.github.io/yanlinnthor.github.io/2025-dev-setup-revised.html"><meta property="og:type" content="article"><link rel="stylesheet" href="https://yanlinnthor.github.io/yanlinnthor.github.io/assets/css/style.css?v=de54f57b9dc2846f13b6973ef9512e4a"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://yanlinnthor.github.io/yanlinnthor.github.io/2025-dev-setup-revised.html"},"headline":"2025 Dev Setup - Revised","datePublished":"2025-08-10T21:26+06:30","dateModified":"2025-08-10T21:26+06:30","image":{"@type":"ImageObject","url":"https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/18/Screenshot_20250810_212551.png","height":1081,"width":1920},"description":"Debian 13 with KDE Plasma 6 Install base distro Download and install distro iso Download&hellip;","author":{"@type":"Person","name":"yan","url":"https://yanlinnthor.github.io/yanlinnthor.github.io/authors/yan/"},"publisher":{"@type":"Organization","name":"yan"}}</script><noscript><style>img[loading] {
+                    opacity: 1;
+                }</style></noscript></head><body class="post-template"><header class="top js-header"><a class="logo" href="https://yanlinnthor.github.io/yanlinnthor.github.io/index.html">Yan&#x27;s Blog</a><nav class="navbar js-navbar"><button class="navbar__toggle js-toggle" aria-label="Menu" aria-haspopup="true" aria-expanded="false"><span class="navbar__toggle-box"><span class="navbar__toggle-inner">Menu</span></span></button><ul class="navbar__menu"><li><a href="https://yanlinnthor.github.io/yanlinnthor.github.io/about.html" title="About Me" target="_self">About</a></li><li><a href="https://yanlinnthor.github.io/yanlinnthor.github.io/index.html" title="Posts" target="_self">Posts</a></li></ul></nav></header><main class="post"><article class="content"><div class="hero"><header class="hero__content"><div class="wrapper"><h1>2025 Dev Setup - Revised</h1><div class="feed__meta content__meta"><img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/website/14962555_10209825666731974_6295717082833313264_n.jpg" loading="eager" height="885" width="885" class="feed__author-thumb" alt=""> <a href="https://yanlinnthor.github.io/yanlinnthor.github.io/authors/yan/index.html" class="feed__author">yan</a> <time datetime="2025-08-10T21:26" class="feed__date">August 10, 2025</time></div></div></header><figure class="hero__image"><div class="hero__image-wrapper"><img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/18/Screenshot_20250810_212551.png" srcset="https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/18/responsive/Screenshot_20250810_212551-xs.png 640w, https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/18/responsive/Screenshot_20250810_212551-sm.png 768w, https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/18/responsive/Screenshot_20250810_212551-md.png 1024w, https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/18/responsive/Screenshot_20250810_212551-lg.png 1366w, https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/18/responsive/Screenshot_20250810_212551-xl.png 1600w, https://yanlinnthor.github.io/yanlinnthor.github.io/media/posts/18/responsive/Screenshot_20250810_212551-2xl.png 1920w" sizes="88vw" loading="eager" height="1081" width="1920" alt=""></div></figure></div><div class="entry-wrapper content__entry"><h1 id="debian-13-with-kde-plasma-6">Debian 13 with KDE Plasma 6</h1><h2 id="install-base-distro">Install base distro</h2><h3 id="download-and-install-distro-iso">Download and install distro iso</h3><p>Download Debian 13 minimal ISO</p><p><a href="https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.0.0-amd64-netinst.iso">https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.0.0-amd64-netinst.iso</a></p><p>Install Guide</p><p><a href="https://www.linuxtechi.com/how-to-install-debian-12-step-by-step/">https://www.linuxtechi.com/how-to-install-debian-12-step-by-step/</a></p><h3 id="update-packages">Update packages</h3><p>Fix sudo command not found</p><p><a href="https://linuxways.net/debian/fix-sudo-command-not-found-debian-12/">https://linuxways.net/debian/fix-sudo-command-not-found-debian-12/</a></p><p>Switch to root user</p><pre><code>su -
+</code></pre><p>Install sudo</p><pre><code>apt install sudo -y
+</code></pre><p>Add standard user to sudoer</p><pre><code>sudo usermod -aG sudo USERNAME_HERE
+</code></pre><p>Update sources to avoid Myanmar ISP restrictions and for Nvidia drivers</p><p><a href="https://fostips.com/change-source-mirror-debian-12/">https://fostips.com/change-source-mirror-debian-12/</a></p><p><a href="https://cdn-aws.deb.debian.org/">https://cdn-aws.deb.debian.org/</a></p><p>Backup /etc/apt/sources.list</p><pre><code>sudo cp /etc/apt/sources.list /etc/apt/sources.list.backup
+</code></pre><p>Edit /etc/apt/sources.list</p><pre><code>#deb cdrom:[Debian GNU/Linux 13.0.0 _Trixie_ - Official amd64 NETINST with firmware 20250809-11:20]/ trixie contrib main non-free-firmware
+
+#deb http://mirrors.cloudforest.co.th/debian/ trixie main contrib non-free non-free-firmware
+#deb-src http://mirrors.cloudforest.co.th/debian/ trixie main contrib non-free non-free-firmware
+deb http://cdn-aws.deb.debian.org/debian/ trixie main contrib non-free non-free-firmware
+deb-src http://cdn-aws.deb.debian.org/debian/ trixie main contrib non-free non-free-firmware
+
+#deb http://security.debian.org/debian-security trixie-security main non-free-firmware
+#deb-src http://security.debian.org/debian-security trixie-security main non-free-firmware
+deb http://cdn-aws.deb.debian.org/debian-security trixie-security main contrib non-free non-free-firmware
+deb-src http://cdn-aws.deb.debian.org/debian-security trixie-security main contrib non-free non-free-firmware
+
+# trixie-updates, to get updates before a point release is made;
+# see https://www.debian.org/doc/manuals/debian-reference/ch02.en.html#_updates_and_backports
+deb http://cdn-aws.deb.debian.org/debian/ trixie-updates main contrib non-free non-free-firmware
+deb-src http://cdn-aws.deb.debian.org/debian/ trixie-updates main contrib non-free non-free-firmware
+
+# This system was installed using removable media other than
+# CD/DVD/BD (e.g. USB stick, SD card, ISO image file).
+# The matching &quot;deb cdrom&quot; entries were disabled at the end
+# of the installation process.
+# For information about how to configure apt package sources,
+# see the sources.list(5) manual.
+</code></pre><p>Update, upgrade and obtain kernel headers</p><pre><code>sudo apt update
+
+sudo apt upgrade
+
+sudo apt install linux-headers-amd64
+
+sudo reboot now
+</code></pre><p>Incase of broken or missing package install</p><pre><code>sudo apt --fix-broken install
+
+sudo apt update --fix-missing
+</code></pre><h2 id="install-drivers-and-kde">Install drivers and KDE</h2><h3 id="install-nvidia-drivers">Install Nvidia drivers</h3><p><a href="https://wiki.debian.org/NvidiaGraphicsDrivers#Debian_Testing_.22Trixie.22">https://wiki.debian.org/NvidiaGraphicsDrivers#Debian_Testing_.22Trixie.22</a></p><p><a href="https://neuronvm.com/docs/install-nvidia-drivers-on-debian/">https://neuronvm.com/docs/install-nvidia-drivers-on-debian/</a></p><pre><code>sudo apt install nvidia-kernel-dkms nvidia-driver firmware-misc-nonfree
+
+sudo reboot now
+</code></pre><h3 id="install-kde-plasma">Install KDE Plasma</h3><p><a href="https://wiki.debian.org/KDE#Installation">https://wiki.debian.org/KDE#Installation</a></p><p><a href="https://www.reddit.com/r/debian/comments/1640aaq/tutorial_how_to_make_a_clean_kde_plasma_install/">https://www.reddit.com/r/debian/comments/1640aaq/tutorial_how_to_make_a_clean_kde_plasma_install/</a></p><pre><code>sudo apt install kde-standard
+
+sudo reboot now
+</code></pre><p>Fix wifi not working issue by editing <code>/etc/network/interfaces</code> file and commenting or deleting the interface used during installation</p><pre><code>sudo nano /etc/network/interfaces
+
+# The primary network interface
+#allow-hotplug wlp0s20f3
+#iface wlp0s20f3 inet dhcp
+#       wpa-ssid WIFI_NAME
+#       wpa-psk  WIFI_PASSWORD
+
+sudo reboot now
+</code></pre><h2 id="post-install">Post install</h2><h3 id="install-vpn">Install VPN</h3><p>Install outline vpn client</p><p><a href="https://support.google.com/outline/answer/15331527?hl=en">https://support.google.com/outline/answer/15331527?hl=en</a></p><pre><code>wget -qO- https://us-apt.pkg.dev/doc/repo-signing-key.gpg | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/gcloud-artifact-registry-us.gpg
+
+echo &quot;deb [arch=amd64] https://us-apt.pkg.dev/projects/jigsaw-outline-apps outline-client main&quot; | sudo tee /etc/apt/sources.list.d/outline-client.list
+
+sudo apt update
+sudo apt install outline-client
+</code></pre><h3 id="update-firefox-esr">Update Firefox ESR</h3><p><a href="https://support.mozilla.org/en-US/kb/install-firefox-linux">https://support.mozilla.org/en-US/kb/install-firefox-linux</a></p><pre><code>sudo install -d -m 0755 /etc/apt/keyrings
+
+wget -q https://packages.mozilla.org/apt/repo-signing-key.gpg -O- | sudo tee /etc/apt/keyrings/packages.mozilla.org.asc &gt; /dev/null
+
+echo &quot;deb [signed-by=/etc/apt/keyrings/packages.mozilla.org.asc] https://packages.mozilla.org/apt mozilla main&quot; | sudo tee -a /etc/apt/sources.list.d/mozilla.list &gt; /dev/null
+
+echo &#39;
+Package: *
+Pin: origin packages.mozilla.org
+Pin-Priority: 1000
+&#39; | sudo tee /etc/apt/preferences.d/mozilla 
+
+sudo apt update
+
+sudo apt upgrade
+</code></pre><h3 id="cleanup">Cleanup</h3><p>Connect to outline vpn (KDE app store Discover needs VPN)</p><p>Go to Discover &gt; Installed</p><p>Remove unused apps like KMail, KWrite etc</p><p>Go to Discover &gt; System Settings</p><p>Install Yakuake</p><p>Go to Multimedia &gt; Video Player</p><p>Install VLC</p><h3 id="skip-grub-loader-screen">Skip grub loader screen</h3><pre><code>sudo nano /etc/default/grub
+
+GRUB_TIMEOUT=0
+
+sudo update-grub
+
+sudo reboot now
+</code></pre><h2 id="development-env-setup">Development env setup</h2><h3 id="install-php">Install PHP</h3><p><a href="https://php.watch/articles/install-php82-ubuntu-debian">https://php.watch/articles/install-php82-ubuntu-debian</a></p><pre><code>sudo apt install curl libnss3-tools jq xsel openssl ca-certificates
+
+sudo apt install apt-transport-https lsb-release ca-certificates wget -y
+
+sudo wget -O /etc/apt/trusted.gpg.d/php.gpg https://packages.sury.org/php/apt.gpg 
+
+sudo sh -c &#39;echo &quot;deb https://packages.sury.org/php/ $(lsb_release -sc) main&quot; &gt; /etc/apt/sources.list.d/php.list&#39;
+
+sudo apt update
+
+sudo apt install php8.2 php8.2-cli php8.2-curl php8.2-gd php8.2-mbstring php8.2-posix php8.2-xml php8.2-zip
+
+sudo apt install php8.2-fpm
+
+sudo a2enconf php8.2-fpm
+
+# Uninstall apache2 (optional)
+sudo apt remove --purge apache2* libapache*
+
+# Change PHP version
+sudo update-alternatives --config php
+
+# Uninstall PHP version
+sudo apt purge php8.X*
+</code></pre><h3 id="install-composer">Install composer</h3><pre><code>curl -sS https://getcomposer.org/installer -o /tmp/composer-setup.php
+
+sudo php /tmp/composer-setup.php --install-dir=/usr/local/bin --filename=composer
+
+sudo nano .bashrc
+# add at end of file
+export PATH=&quot;$PATH:$HOME/.config/composer/vendor/bin&quot;
+
+sudo reboot now
+</code></pre><p>Fix curl error 28 connection time out issue or use VPN</p><p><a href="https://github.com/composer/composer/issues/7503#issuecomment-458173411">https://github.com/composer/composer/issues/7503#issuecomment-458173411</a></p><pre><code>composer config -g repo.packagist composer https://repo.packagist.org
+</code></pre><h3 id="install-valet">Install valet</h3><pre><code>composer global require genesisweb/valet-linux-plus
+
+cd
+
+mkdir .valet
+
+valet install
+
+valet install --mariadb -vvv
+
+sudo reboot now
+</code></pre><h4 id="fix-domainexception-unable-to-determine-service-name">Fix [DomainException] Unable to determine service name.</h4><p><a href="https://github.com/valet-linux-plus/valet-linux-plus/issues/137">https://github.com/valet-linux-plus/valet-linux-plus/issues/137</a></p><pre><code>sudo apt install systemd-resolved
+
+valet install --mariadb -vvv
+</code></pre><h4 id="fix-domainexception-apt-was-unable-to-install-redis-server">Fix [DomainException] Apt was unable to install [redis-server].</h4><pre><code>sudo apt update --fix-missing
+
+valet install --mariadb -vvv
+</code></pre><h4 id="fix-sites-not-working-aka-service-unknown-error">Fix sites not working aka service unknown error</h4><p><a href="https://github.com/valet-linux-plus/valet-linux-plus/issues/130#issuecomment-2715924576">https://github.com/valet-linux-plus/valet-linux-plus/issues/130#issuecomment-2715924576</a></p><pre><code># Disable systemctl-resolved
+sudo systemctl stop systemd-resolved 
+sudo systemctl disable systemd-resolved
+
+# Remove /etc/resolv.conf symlink
+sudo rm /etc/resolv.conf
+
+# Manually create /etc/resolv.conf
+echo &quot;nameserver 127.0.0.1&quot; | sudo tee /etc/resolv.conf
+
+# Restart dnsmasq
+sudo systemctl restart dnsmasq
+sudo systemctl enable  dnsmasq
+
+# test
+ping phpinfo.test
+</code></pre><h4 id="fix-valet-nginx-fails-error">Fix Valet nginx fails error</h4><p><a href="https://github.com/valet-linux-plus/valet-linux-plus/issues/152">https://github.com/valet-linux-plus/valet-linux-plus/issues/152</a></p><pre><code>sudo nano ~/.config/valet/Nginx/mails.test
+
+# listen 443 ssl;
+# http2 on;
+
+listen 443 ssl http2;
+</code></pre><h3 id="install-nodejs">Install nodejs</h3><p>Install n</p><pre><code>curl -L https://bit.ly/n-install | bash
+
+# or
+
+curl -L https://raw.githubusercontent.com/mklement0/n-install/stable/bin/n-install | bash
+
+# or
+
+git clone https://github.com/mklement0/n-install.git
+cd n-install/bin
+bash n-install
+
+sudo reboot now
+</code></pre><h3 id="test">Test</h3><pre><code>php -v
+node -v
+npm -v
+
+mkdir phpinfo
+cd phpinfo
+echo &quot;&lt;?php phpinfo();&quot; &gt;&gt; index.php
+valet link
+ping phpinfo.test
+# or visit phpinfo.test in browser
+</code></pre><h4 id="fix-service-not-found-when-visiting-sites">Fix service not found when visiting sites</h4><p>Change network setting by defining DNS servers</p><p>System Settings &gt; Wi-Fi &amp; Internet &gt; Wi-Fi &amp; Networking &gt; Select connection &gt; Select IPv4</p><p>Method : Automatic (Only addresses)</p><p>Servesr: 8.8.8.8,1.1.1.1</p><p>Apply</p><p>Restart</p><h2 id="essential-apps-and-customization">Essential apps and customization</h2><h3 id="essential-apps">Essential apps</h3><p>VS Code</p><p><a href="https://code.visualstudio.com/docs/?dv=linux64_deb">https://code.visualstudio.com/docs/?dv=linux64_deb</a></p><p>Download deb file</p><pre><code>sudo dpkg -i vscode.deb
+</code></pre><p>Obsidian</p><p><a href="https://obsidian.md/download">https://obsidian.md/download</a></p><p>Use remotely sync to sync notes on dropbox</p><p>Publii</p><p><a href="https://getpublii.com/docs/install-publii.html">https://getpublii.com/docs/install-publii.html</a></p><p>Dropbox</p><p>Download deb</p><p><a href="https://www.dropbox.com/download?dl=packages/ubuntu/dropbox_2025.05.20_amd64.deb">https://www.dropbox.com/download?dl=packages/ubuntu/dropbox_2025.05.20_amd64.deb</a></p><p><a href="https://www.dropbox.com/install-linux">https://www.dropbox.com/install-linux</a></p><p><a href="https://www.reddit.com/r/chromeos/comments/1dcvy8t/how_to_install_dropbox/">https://www.reddit.com/r/chromeos/comments/1dcvy8t/how_to_install_dropbox/</a></p><pre><code>cd Downloads
+
+sudo dpkg -i dropbox_2025.05.20_amd64.deb
+
+sudo apt install python3-gi gobject-introspection gir1.2-gtk-3.0
+
+sudo dropbox start -i
+</code></pre><h3 id="setup-ssh-keys-and-git">Setup ssh keys and git</h3><p><a href="https://unix.stackexchange.com/questions/257590/ssh-key-permissions-chmod-settings">https://unix.stackexchange.com/questions/257590/ssh-key-permissions-chmod-settings</a></p><pre><code>chmod 700 ~/.ssh
+chmod 600 ~/.ssh/*
+
+git config --global init.defaultBranch main
+git config --global user.email &quot;email@domain.com&quot;
+git config --global user.name &quot;name&quot;
+</code></pre><h3 id="setup-zsh-ohmyzsh-and-starship">Setup zsh, ohmyzsh and starship</h3><p>Install zsh</p><p><a href="https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH">https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH</a></p><p><a href="https://github.com/theborowski/pop-setup">https://github.com/theborowski/pop-setup</a></p><pre><code>sudo apt install zsh
+zsh --version
+chsh -s $(which zsh)
+sudo reboot now
+
+# When configuring the .zshrc file, choose an empty option, `ohmyzsh` will replace it.
+</code></pre><p>Install ohmyzsh</p><pre><code>sh -c &quot;$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)&quot;
+
+rm .zshrc.pre-oh-my-zsh
+</code></pre><p>Update <code>~/.zshrc</code></p><pre><code>nano ~/.zshrc
+
+# install plugins
+plugins=(git common-aliases copyfile copypath extract ssh)
+
+# copy exports from .bashrc
+
+source ~/.zshrc
+</code></pre><p><a href="https://www.nerdfonts.com/font-downloads">https://www.nerdfonts.com/font-downloads</a></p><p>copy fonts to <code>/.local/share/fonts/</code></p><p><a href="https://starship.rs/guide">https://starship.rs/guide</a></p><pre><code>curl -sS https://starship.rs/install.sh | sh
+
+echo &#39;eval &quot;$(starship init zsh)&quot;&#39; &gt;&gt; ~/.zshrc
+
+starship preset nerd-font-symbols -o ~/.config/starship.toml
+
+# starship.toml file will be updated again when installing dracula theme
+</code></pre><h3 id="use-dracula-themes-and-color">Use dracula themes and color</h3><p><a href="https://draculatheme.com/">https://draculatheme.com/</a></p><pre><code>mkdir dracula-themes
+cd dracula-themes
+</code></pre><p>konsole</p><pre><code>git clone https://draculatheme.com/konsole
+cp konsole/Dracula.colorscheme ~/.local/share/konsole
+
+Konsole &gt; Configuration &gt; Add new profile &gt; Color &gt; Dracula
+</code></pre><p>yakuake</p><pre><code>git clone https://github.com/dracula/yakuake.git
+cp -r yakuake ~/.local/share/yakuake/kns_skins/
+cd ~/.local/share/yakuake/kns_skins
+mv yakuake dracula
+
+Yakuake &gt; Configuration &gt; Appearance
+</code></pre><p>zsh</p><pre><code>git clone https://github.com/dracula/zsh.git
+
+ln -s ~/dracula-themes/zsh/dracula.zsh-theme ~/.oh-my-zsh/themes/dracula.zsh-theme
+
+nano ~/.zshrc
+
+# comment out current theme
+#ZSH_THEME=&quot;robbyrussell&quot;
+
+# add following at the end
+ZSH_THEME=&quot;dracula&quot;
+</code></pre><p>starship</p><p>Edit <code>~/.config/starship.toml</code></p><p><a href="https://gist.github.com/mrlinnth/33d8dfbb0494c0e31dd4ab013a05831b">https://gist.github.com/mrlinnth/33d8dfbb0494c0e31dd4ab013a05831b</a></p><p>firefox</p><p><a href="https://addons.mozilla.org/en-US/firefox/addon/dracula-dark-colorscheme/">https://addons.mozilla.org/en-US/firefox/addon/dracula-dark-colorscheme/</a></p></div><footer class="content__footer"><div class="entry-wrapper"><p class="content__updated">This article was updated on August 10, 2025</p><div class="content__actions"></div></div><nav class="content__nav"><div class="wrapper"><div class="content__nav-inner"><div class="content__nav-prev"><a href="https://yanlinnthor.github.io/yanlinnthor.github.io/2025-development-setup.html" class="content__nav-link" rel="prev"><div><span>Previous</span> 2025 Development Setup</div></a></div><div class="content__nav-next"><a href="https://yanlinnthor.github.io/yanlinnthor.github.io/kate-editor-and-lsp-servers-setup.html" class="content__nav-link" rel="next"><div><span>Next</span> Kate Editor and LSP setup</div></a></div></div></div></nav></footer></article><div class="content__related related"><div class="wrapper"><h2 class="h4 related__title">You should also read:</h2><article class="feed__item feed__item--centered"><div class="feed__content"><header><div class="feed__meta"><img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/website/14962555_10209825666731974_6295717082833313264_n.jpg" loading="lazy" height="885" width="885" class="feed__author-thumb" alt=""> <a href="https://yanlinnthor.github.io/yanlinnthor.github.io/authors/yan/index.html" class="feed__author">yan</a> <time datetime="2025-08-14T01:07" class="feed__date">August 14, 2025</time></div><h3 class="feed__title"><a href="https://yanlinnthor.github.io/yanlinnthor.github.io/kate-editor-and-lsp-servers-setup.html">Kate Editor and LSP setup</a></h3></header><p>After switching to Debian with KDE plasma, I tried Kate, KDE's default text editor. It&hellip;</p><a href="https://yanlinnthor.github.io/yanlinnthor.github.io/kate-editor-and-lsp-servers-setup.html" class="readmore feed__readmore">Continue reading...</a></div></article><article class="feed__item feed__item--centered"><div class="feed__content"><header><div class="feed__meta"><img src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/website/14962555_10209825666731974_6295717082833313264_n.jpg" loading="lazy" height="885" width="885" class="feed__author-thumb" alt=""> <a href="https://yanlinnthor.github.io/yanlinnthor.github.io/authors/yan/index.html" class="feed__author">yan</a> <time datetime="2025-08-02T21:10" class="feed__date">August 2, 2025</time></div><h3 class="feed__title"><a href="https://yanlinnthor.github.io/yanlinnthor.github.io/2025-development-setup.html">2025 Development Setup</a></h3></header><p>OS (POP) cleanup and update sudo apt remove -purge libreoffice* sudo apt autoremove sudo apt&hellip;</p><a href="https://yanlinnthor.github.io/yanlinnthor.github.io/2025-development-setup.html" class="readmore feed__readmore">Continue reading...</a></div></article></div></div></main><footer class="footer footer--glued"><div class="wrapper"><div class="footer__copyright"><p> </p><p>Powered by <a href="https://getpublii.com" target="_blank" rel="nofollow noopener noreferrer">Publii Static CMS</a></p></div><button id="backToTop" class="footer__bttop" aria-label="Back to top" title="Back to top"><svg width="20" height="20"><use xlink:href="https://yanlinnthor.github.io/yanlinnthor.github.io/assets/svg/svg-map.svg#toparrow"/></svg></button></div></footer><script defer="defer" src="https://yanlinnthor.github.io/yanlinnthor.github.io/assets/js/scripts.min.js?v=ffcbea6c02c8178d10092962b235a5b0"></script><script>window.publiiThemeMenuConfig={mobileMenuMode:'sidebar',animationSpeed:300,submenuWidth: 'auto',doubleClickTime:500,mobileMenuExpandableSubmenus:true,relatedContainerForOverlayMenuSelector:'.top'};</script><script>var images = document.querySelectorAll('img[loading]');
+        for (var i = 0; i < images.length; i++) {
+            if (images[i].complete) {
+                images[i].classList.add('is-loaded');
+            } else {
+                images[i].addEventListener('load', function () {
+                    this.classList.add('is-loaded');
+                }, false);
+            }
+        }</script><script defer="defer" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/plugins/syntaxHighlighter/prism.js"></script><script defer="defer" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/plugins/syntaxHighlighter/clipboard.min.js"></script><script defer="defer" src="https://yanlinnthor.github.io/yanlinnthor.github.io/media/plugins/syntaxHighlighter/prism-copy-to-clipboard.min.js"></script></body></html>
